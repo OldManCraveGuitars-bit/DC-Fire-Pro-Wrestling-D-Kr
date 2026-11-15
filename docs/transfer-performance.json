@@ -1,0 +1,34 @@
+{
+  "version": "0.9",
+  "reference_build": "3f9c6f1b631b",
+  "emulator_measurement": true,
+  "physical_console_tested": false,
+  "menu": "단체 이적: 선수 목록",
+  "observation_vblanks": 180,
+  "before": {
+    "first_move_frames": 13,
+    "repeat_move_frames": [
+      108
+    ],
+    "moves": 2,
+    "bitmap_cache_queries": 17651
+  },
+  "after": {
+    "first_move_frames": 1,
+    "repeat_move_frames_min": 5,
+    "repeat_move_frames_max": 9,
+    "moves": 27,
+    "bitmap_cache_queries": 35
+  },
+  "end_of_list_repeat_frames": [
+    5,
+    9
+  ],
+  "names_and_order_preserved": 220,
+  "bitmap_cache_slots": 80,
+  "bitmap_cache_bytes": 58212,
+  "extra_heap_allocation": 0,
+  "glyph_pixel_comparisons": 22446,
+  "metrics_only_queries_without_composition": 44892,
+  "destination_list_timing_measured": false
+}

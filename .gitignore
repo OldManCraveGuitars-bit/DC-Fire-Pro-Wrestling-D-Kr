@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.chd
+*.gdi
+*.bin
+*.raw
+*.exe
+*.dll
+*.tar.gz
+dist/
+build/

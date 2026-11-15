@@ -1,0 +1,2538 @@
+{
+  "base": [
+    {
+      "id": 0,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "大和 / ファイター",
+      "display": "후지나미 타츠미",
+      "english": "Tatsumi Fujinami",
+      "renamed": true
+    },
+    {
+      "id": 1,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "慶介 / ストーム",
+      "display": "사사키 켄스케",
+      "english": "Kensuke Sasaki",
+      "renamed": true
+    },
+    {
+      "id": 2,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "ジロー / サムライ",
+      "display": "코시나카 시로",
+      "english": "Shiro Koshinaka",
+      "renamed": true
+    },
+    {
+      "id": 3,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "宏田 / 純一",
+      "display": "히라타 준지",
+      "english": "Junji Hirata",
+      "renamed": true
+    },
+    {
+      "id": 4,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "拳悟 / イナズマ",
+      "display": "키무라 켄고",
+      "english": "Kengo Kimura",
+      "renamed": true
+    },
+    {
+      "id": 5,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "水戸 / 勇",
+      "display": "키도 오사무",
+      "english": "Osamu Kido",
+      "renamed": true
+    },
+    {
+      "id": 6,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "稲塚 / 貴幸",
+      "display": "이이즈카 타카시",
+      "english": "Takashi Iizuka",
+      "renamed": true
+    },
+    {
+      "id": 7,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "高橋 / 衛",
+      "display": "나카니시 마나부",
+      "english": "Manabu Nakanishi",
+      "renamed": true
+    },
+    {
+      "id": 8,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "阪田 / 祐次郎",
+      "display": "나가타 유지",
+      "english": "Yuji Nagata",
+      "renamed": true
+    },
+    {
+      "id": 9,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "益田 / 高男",
+      "display": "야스다 타다오",
+      "english": "Tadao Yasuda",
+      "renamed": true
+    },
+    {
+      "id": 10,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "草村 / 徹",
+      "display": "니시무라 오사무",
+      "english": "Osamu Nishimura",
+      "renamed": true
+    },
+    {
+      "id": 11,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "泰江 / 真",
+      "display": "요시에 유타카",
+      "english": "Yutaka Yoshie",
+      "renamed": true
+    },
+    {
+      "id": 12,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "カイザー / 超帝スーパー",
+      "display": "쥬신 선더 라이거",
+      "english": "Jushin Thunder Liger",
+      "renamed": true
+    },
+    {
+      "id": 13,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "カミカゼ / Ｅ",
+      "display": "엘 사무라이",
+      "english": "El Samurai",
+      "renamed": true
+    },
+    {
+      "id": 14,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "鎌本 / 鋭司",
+      "display": "카네모토 코지",
+      "english": "Koji Kanemoto",
+      "renamed": true
+    },
+    {
+      "id": 15,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "大刈 / 真一郎",
+      "display": "오타니 신지로",
+      "english": "Shinjiro Otani",
+      "renamed": true
+    },
+    {
+      "id": 16,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "ヤ・シン / ブシドー",
+      "display": "켄도 카신",
+      "english": "Kendo Kashin",
+      "renamed": true
+    },
+    {
+      "id": 17,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "鷹龍 / 岩人",
+      "display": "타카이와 타츠히토",
+      "english": "Tatsuhito Takaiwa",
+      "renamed": true
+    },
+    {
+      "id": 18,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "中瀬 / 慎哉",
+      "display": "마카베 신야",
+      "english": "Shinya Makabe",
+      "renamed": true
+    },
+    {
+      "id": 19,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "河野 / バイオレンス",
+      "display": "초노 마사히로",
+      "english": "Masahiro Chono",
+      "renamed": true
+    },
+    {
+      "id": 20,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "俊藤 / 剣",
+      "display": "무토 케이지",
+      "english": "Keiji Mutoh",
+      "renamed": true
+    },
+    {
+      "id": 21,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "天本 / バッファロー",
+      "display": "텐잔 히로요시",
+      "english": "Hiroyoshi Tenzan",
+      "renamed": true
+    },
+    {
+      "id": 22,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "木嶋 / 悟",
+      "display": "코지마 사토시",
+      "english": "Satoshi Kojima",
+      "renamed": true
+    },
+    {
+      "id": 23,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "バートン / フラッシュ",
+      "display": "스콧 노턴",
+      "english": "Scott Norton",
+      "renamed": true
+    },
+    {
+      "id": 24,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "ハイパーＫ",
+      "display": "슈퍼 J",
+      "english": "Super J",
+      "renamed": true
+    },
+    {
+      "id": 25,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "護東 / トシ",
+      "display": "고토 타츠토시",
+      "english": "Tatsutoshi Goto",
+      "renamed": true
+    },
+    {
+      "id": 26,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "野原 / 道憲",
+      "display": "오하라 미치요시",
+      "english": "Michiyoshi Ohara",
+      "renamed": true
+    },
+    {
+      "id": 27,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "ヒロ / レイジング",
+      "display": "히로 사이토",
+      "english": "Hiro Saito",
+      "renamed": true
+    },
+    {
+      "id": 28,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "ＡＳＵＫＡ",
+      "display": "아키라",
+      "english": "AKIRA",
+      "renamed": true
+    },
+    {
+      "id": 29,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "武蔵 / ビクトリー",
+      "display": "안토니오 이노키",
+      "english": "Antonio Inoki",
+      "renamed": true
+    },
+    {
+      "id": 30,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "力丸 / ハリケーン",
+      "display": "초슈 리키",
+      "english": "Riki Choshu",
+      "renamed": true
+    },
+    {
+      "id": 31,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "山本 / 和輝",
+      "display": "야마자키 카즈오",
+      "english": "Kazuo Yamazaki",
+      "renamed": true
+    },
+    {
+      "id": 32,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "溝口 / シャウト",
+      "display": "애니멀 하마구치",
+      "english": "Animal Hamaguchi",
+      "renamed": true
+    },
+    {
+      "id": 33,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "若元 / 一徹",
+      "display": "야마모토 코테츠",
+      "english": "Kotetsu Yamamoto",
+      "renamed": true
+    },
+    {
+      "id": 34,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "パンサー / マスク・ド",
+      "display": "타이거 마스크",
+      "english": "Tiger Mask",
+      "renamed": true
+    },
+    {
+      "id": 35,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "キッド / ダイナミック",
+      "display": "다이너마이트 키드",
+      "english": "Dynamite Kid",
+      "renamed": true
+    },
+    {
+      "id": 36,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "五十嵐 / 利明",
+      "display": "코바야시 쿠니아키",
+      "english": "Kuniaki Kobayashi",
+      "renamed": true
+    },
+    {
+      "id": 37,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "ブラック / パンサー",
+      "display": "블랙 타이거",
+      "english": "Black Tiger",
+      "renamed": true
+    },
+    {
+      "id": 38,
+      "promotion": 2,
+      "group": "SUPER NOVA",
+      "original": "氷川 / 光秀",
+      "display": "미사와 미츠하루",
+      "english": "Mitsuharu Misawa",
+      "renamed": true
+    },
+    {
+      "id": 39,
+      "promotion": 2,
+      "group": "SUPER NOVA",
+      "original": "富樫 / 慶次",
+      "display": "코바시 켄타",
+      "english": "Kenta Kobashi",
+      "renamed": true
+    },
+    {
+      "id": 40,
+      "promotion": 1,
+      "group": "OLIVE JAPAN",
+      "original": "風間 / 利家",
+      "display": "카와다 토시아키",
+      "english": "Toshiaki Kawada",
+      "renamed": true
+    },
+    {
+      "id": 41,
+      "promotion": 2,
+      "group": "SUPER NOVA",
+      "original": "相模 / 朗",
+      "display": "타우에 아키라",
+      "english": "Akira Taue",
+      "renamed": true
+    },
+    {
+      "id": 42,
+      "promotion": 2,
+      "group": "SUPER NOVA",
+      "original": "秋沢 / 瞬",
+      "display": "아키야마 준",
+      "english": "Jun Akiyama",
+      "renamed": true
+    },
+    {
+      "id": 43,
+      "promotion": 1,
+      "group": "OLIVE JAPAN",
+      "original": "伊達 / 弘",
+      "display": "하세 히로시",
+      "english": "Hiroshi Hase",
+      "renamed": true
+    },
+    {
+      "id": 44,
+      "promotion": 2,
+      "group": "SUPER NOVA",
+      "original": "大林 / 剛雄",
+      "display": "오모리 타카오",
+      "english": "Takao Omori",
+      "renamed": true
+    },
+    {
+      "id": 45,
+      "promotion": 2,
+      "group": "SUPER NOVA",
+      "original": "甲山 / 良宏",
+      "display": "타카야마 요시히로",
+      "english": "Yoshihiro Takayama",
+      "renamed": true
+    },
+    {
+      "id": 46,
+      "promotion": 2,
+      "group": "SUPER NOVA",
+      "original": "本間 / 羅魂",
+      "display": "혼다 타몬",
+      "english": "Tamon Honda",
+      "renamed": true
+    },
+    {
+      "id": 47,
+      "promotion": 2,
+      "group": "SUPER NOVA",
+      "original": "泉谷 / 牛角",
+      "display": "이즈미다 준",
+      "english": "Jun Izumida",
+      "renamed": true
+    },
+    {
+      "id": 48,
+      "promotion": 2,
+      "group": "SUPER NOVA",
+      "original": "木下 / 孝雄",
+      "display": "이노우에 마사오",
+      "english": "Masao Inoue",
+      "renamed": true
+    },
+    {
+      "id": 49,
+      "promotion": 2,
+      "group": "SUPER NOVA",
+      "original": "伊賀 / 仁太郎",
+      "display": "시가 켄타로",
+      "english": "Kentaro Shiga",
+      "renamed": true
+    },
+    {
+      "id": 50,
+      "promotion": 1,
+      "group": "OLIVE JAPAN",
+      "original": "バイソン / スター",
+      "display": "스탠 핸슨",
+      "english": "Stan Hansen",
+      "renamed": true
+    },
+    {
+      "id": 51,
+      "promotion": 2,
+      "group": "SUPER NOVA",
+      "original": "セイバー / スター",
+      "display": "베이더",
+      "english": "Vader",
+      "renamed": true
+    },
+    {
+      "id": 52,
+      "promotion": 1,
+      "group": "OLIVE JAPAN",
+      "original": "ジェイムス / スティル",
+      "display": "스티브 윌리엄스",
+      "english": "Steve Williams",
+      "renamed": true
+    },
+    {
+      "id": 53,
+      "promotion": 1,
+      "group": "OLIVE JAPAN",
+      "original": "ピース / ジョン",
+      "display": "조니 에이스",
+      "english": "Johnny Ace",
+      "renamed": true
+    },
+    {
+      "id": 54,
+      "promotion": 1,
+      "group": "OLIVE JAPAN",
+      "original": "バン / ビート",
+      "display": "바트 건",
+      "english": "Bart Gunn",
+      "renamed": true
+    },
+    {
+      "id": 55,
+      "promotion": 1,
+      "group": "OLIVE JAPAN",
+      "original": "ジャッカル / ボールフィード",
+      "display": "짐 스틸",
+      "english": "Jim Steele",
+      "renamed": true
+    },
+    {
+      "id": 56,
+      "promotion": 1,
+      "group": "OLIVE JAPAN",
+      "original": "ルイス / トニー",
+      "display": "조니 스미스",
+      "english": "Johnny Smith",
+      "renamed": true
+    },
+    {
+      "id": 57,
+      "promotion": 1,
+      "group": "OLIVE JAPAN",
+      "original": "熱風 / クア",
+      "display": "타이요 케아",
+      "english": "Taiyo Kea",
+      "renamed": true
+    },
+    {
+      "id": 58,
+      "promotion": 1,
+      "group": "OLIVE JAPAN",
+      "original": "小淵沢 / 昌紀",
+      "display": "후치 마사노부",
+      "english": "Masanobu Fuchi",
+      "renamed": true
+    },
+    {
+      "id": 59,
+      "promotion": 2,
+      "group": "SUPER NOVA",
+      "original": "野河 / 芳直",
+      "display": "오가와 요시나리",
+      "english": "Yoshinari Ogawa",
+      "renamed": true
+    },
+    {
+      "id": 60,
+      "promotion": 2,
+      "group": "SUPER NOVA",
+      "original": "明智 / 清志",
+      "display": "키쿠치 츠요시",
+      "english": "Tsuyoshi Kikuchi",
+      "renamed": true
+    },
+    {
+      "id": 61,
+      "promotion": 1,
+      "group": "OLIVE JAPAN",
+      "original": "牧原 / 武彦",
+      "display": "카키하라 마사히토",
+      "english": "Masahito Kakihara",
+      "renamed": true
+    },
+    {
+      "id": 62,
+      "promotion": 2,
+      "group": "SUPER NOVA",
+      "original": "羽丸 / 敏則",
+      "display": "카네마루 요시노부",
+      "english": "Yoshinobu Kanemaru",
+      "renamed": true
+    },
+    {
+      "id": 63,
+      "promotion": 1,
+      "group": "OLIVE JAPAN",
+      "original": "司馬 / グレート",
+      "display": "자이언트 바바",
+      "english": "Giant Baba",
+      "renamed": true
+    },
+    {
+      "id": 64,
+      "promotion": 1,
+      "group": "OLIVE JAPAN",
+      "original": "トミー / ボンバー",
+      "display": "점보 츠루타",
+      "english": "Jumbo Tsuruta",
+      "renamed": true
+    },
+    {
+      "id": 65,
+      "promotion": 1,
+      "group": "OLIVE JAPAN",
+      "original": "ハリー / テキサンＪｒ．",
+      "display": "도리 펑크 주니어",
+      "english": "Dory Funk Jr.",
+      "renamed": true
+    },
+    {
+      "id": 66,
+      "promotion": 1,
+      "group": "OLIVE JAPAN",
+      "original": "ブル / ビッグ・ザ・Ｇ",
+      "display": "브루저 브로디",
+      "english": "Bruiser Brody",
+      "renamed": true
+    },
+    {
+      "id": 67,
+      "promotion": 1,
+      "group": "OLIVE JAPAN",
+      "original": "ボギー / ケリー",
+      "display": "테리 고디",
+      "english": "Terry Gordy",
+      "renamed": true
+    },
+    {
+      "id": 68,
+      "promotion": 1,
+      "group": "OLIVE JAPAN",
+      "original": "ブライト / Ｇ・Ｏ",
+      "display": "게리 올브라이트",
+      "english": "Gary Albright",
+      "renamed": true
+    },
+    {
+      "id": 69,
+      "promotion": 3,
+      "group": "신생 IW",
+      "original": "ランマル",
+      "display": "하야부사",
+      "english": "Hayabusa",
+      "renamed": true
+    },
+    {
+      "id": 70,
+      "promotion": 3,
+      "group": "신생 IW",
+      "original": "畑中 / 雅彦",
+      "display": "타나카 마사토",
+      "english": "Masato Tanaka",
+      "renamed": true
+    },
+    {
+      "id": 71,
+      "promotion": 3,
+      "group": "신생 IW",
+      "original": "春樹 / サクソン",
+      "display": "후유키 코도",
+      "english": "Kodo Fuyuki",
+      "renamed": true
+    },
+    {
+      "id": 72,
+      "promotion": 3,
+      "group": "신생 IW",
+      "original": "芦屋 / Ｍｒ．",
+      "display": "미스터 간노스케",
+      "english": "Mister Gannosuke",
+      "renamed": true
+    },
+    {
+      "id": 73,
+      "promotion": 3,
+      "group": "신생 IW",
+      "original": "室田 / 鉄彦",
+      "display": "쿠로다 테츠히로",
+      "english": "Tetsuhiro Kuroda",
+      "renamed": true
+    },
+    {
+      "id": 74,
+      "promotion": 3,
+      "group": "신생 IW",
+      "original": "高矢 / 久勝",
+      "display": "오야 히사카츠",
+      "english": "Hisakatsu Oya",
+      "renamed": true
+    },
+    {
+      "id": 75,
+      "promotion": 3,
+      "group": "신생 IW",
+      "original": "魔童",
+      "display": "자도",
+      "english": "Jado",
+      "renamed": true
+    },
+    {
+      "id": 76,
+      "promotion": 3,
+      "group": "신생 IW",
+      "original": "亀村 / ウィニング",
+      "display": "카네무라 킨타로",
+      "english": "Kintaro Kanemura",
+      "renamed": true
+    },
+    {
+      "id": 77,
+      "promotion": 3,
+      "group": "신생 IW",
+      "original": "鬼童",
+      "display": "게도",
+      "english": "Gedo",
+      "renamed": true
+    },
+    {
+      "id": 78,
+      "promotion": 3,
+      "group": "신생 IW",
+      "original": "ロッキー / ツジ",
+      "display": "리키 후지",
+      "english": "Ricky Fuji",
+      "renamed": true
+    },
+    {
+      "id": 79,
+      "promotion": 4,
+      "group": "유키구니 프로레슬링",
+      "original": "神崎 / 仁水",
+      "display": "신자키 진세이",
+      "english": "Jinsei Shinzaki",
+      "renamed": true
+    },
+    {
+      "id": 80,
+      "promotion": 4,
+      "group": "유키구니 프로레슬링",
+      "original": "ハヤテ / ブレード",
+      "display": "그레이트 사스케",
+      "english": "The Great Sasuke",
+      "renamed": true
+    },
+    {
+      "id": 81,
+      "promotion": 4,
+      "group": "유키구니 프로레슬링",
+      "original": "マリポーサ / グラン",
+      "display": "그란 하마다",
+      "english": "Gran Hamada",
+      "renamed": true
+    },
+    {
+      "id": 82,
+      "promotion": 4,
+      "group": "유키구니 프로레슬링",
+      "original": "パンサーＩＶ / マスク・ド",
+      "display": "타이거 마스크 IV",
+      "english": "Tiger Mask IV",
+      "renamed": true
+    },
+    {
+      "id": 83,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "音羽 / 怒乱",
+      "display": "그란 나니와",
+      "english": "Gran Naniwa",
+      "renamed": true
+    },
+    {
+      "id": 84,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "梶田 / ミツル",
+      "display": "후지타 미노루",
+      "english": "Minoru Fujita",
+      "renamed": true
+    },
+    {
+      "id": 85,
+      "promotion": 4,
+      "group": "유키구니 프로레슬링",
+      "original": "カリー / マスク",
+      "display": "커리맨",
+      "english": "Curry Man",
+      "renamed": true
+    },
+    {
+      "id": 86,
+      "promotion": 5,
+      "group": "초룡관",
+      "original": "ワルサー / ＫＹＯＴＯ",
+      "display": "매그넘 도쿄",
+      "english": "Magnum TOKYO",
+      "renamed": true
+    },
+    {
+      "id": 87,
+      "promotion": 5,
+      "group": "초룡관",
+      "original": "ＺＹＭＡ",
+      "display": "시마",
+      "english": "CIMA",
+      "renamed": true
+    },
+    {
+      "id": 88,
+      "promotion": 5,
+      "group": "초룡관",
+      "original": "ジュニア / アステカ",
+      "display": "드래곤 키드",
+      "english": "Dragon Kid",
+      "renamed": true
+    },
+    {
+      "id": 89,
+      "promotion": 5,
+      "group": "초룡관",
+      "original": "ＫＵＧＡ",
+      "display": "스와",
+      "english": "SUWA",
+      "renamed": true
+    },
+    {
+      "id": 90,
+      "promotion": 5,
+      "group": "초룡관",
+      "original": "Ｆ２０００ / 菅生・ダンディ",
+      "display": "스모 댄디 후지2000",
+      "english": "Sumo Dandy Fuji 2000 (Don Fujii)",
+      "renamed": true
+    },
+    {
+      "id": 91,
+      "promotion": 5,
+      "group": "초룡관",
+      "original": "アステカ / ドラゴン",
+      "display": "울티모 드래곤",
+      "english": "Ultimo Dragon",
+      "renamed": true
+    },
+    {
+      "id": 92,
+      "promotion": 6,
+      "group": "ZIP JAPAN",
+      "original": "ＸＸＸ / ダークネス",
+      "display": "섀도 WX",
+      "english": "Shadow WX",
+      "renamed": true
+    },
+    {
+      "id": 93,
+      "promotion": 6,
+      "group": "ZIP JAPAN",
+      "original": "河山 / 龍次",
+      "display": "야마카와 류지",
+      "english": "Ryuji Yamakawa",
+      "renamed": true
+    },
+    {
+      "id": 94,
+      "promotion": 6,
+      "group": "ZIP JAPAN",
+      "original": "相馬 / 智明",
+      "display": "혼마 토모아키",
+      "english": "Tomoaki Honma",
+      "renamed": true
+    },
+    {
+      "id": 95,
+      "promotion": 6,
+      "group": "ZIP JAPAN",
+      "original": "ボーイ / ケリー",
+      "display": "멘즈 테이오",
+      "english": "MEN'S Teioh (Terry Boy)",
+      "renamed": true
+    },
+    {
+      "id": 96,
+      "promotion": 6,
+      "group": "ZIP JAPAN",
+      "original": "デンジャー / アブドル・ザ",
+      "display": "압둘라 더 부처",
+      "english": "Abdullah the Butcher",
+      "renamed": true
+    },
+    {
+      "id": 97,
+      "promotion": 7,
+      "group": "간사이 프로레슬링",
+      "original": "ドルフィン / Ｓ",
+      "display": "슈퍼 델핀",
+      "english": "Super Delfin",
+      "renamed": true
+    },
+    {
+      "id": 98,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "西城 / リック",
+      "display": "딕 토고",
+      "english": "Dick Togo",
+      "renamed": true
+    },
+    {
+      "id": 99,
+      "promotion": 7,
+      "group": "간사이 프로레슬링",
+      "original": "倉仲 / 武博",
+      "display": "무라하마 타케히로",
+      "english": "Takehiro Murahama",
+      "renamed": true
+    },
+    {
+      "id": 100,
+      "promotion": 1,
+      "group": "OLIVE JAPAN",
+      "original": "龍 / サンダー",
+      "display": "텐류 겐이치로",
+      "english": "Genichiro Tenryu",
+      "renamed": true
+    },
+    {
+      "id": 101,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "旗本 / クラッシャー",
+      "display": "하시모토 신야",
+      "english": "Shinya Hashimoto",
+      "renamed": true
+    },
+    {
+      "id": 102,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "梶原 / 丈",
+      "display": "후지와라 요시아키",
+      "english": "Yoshiaki Fujiwara",
+      "renamed": true
+    },
+    {
+      "id": 103,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "沖田 / 勝志",
+      "display": "오니타 아츠시",
+      "english": "Atsushi Onita",
+      "renamed": true
+    },
+    {
+      "id": 104,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "五条 / ハンター",
+      "display": "타잔 고토",
+      "english": "Tarzan Goto",
+      "renamed": true
+    },
+    {
+      "id": 105,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "トーゴー / マスター",
+      "display": "미스터 포고",
+      "english": "Mister Pogo",
+      "renamed": true
+    },
+    {
+      "id": 106,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "安藤 / 障二",
+      "display": "안조 요지",
+      "english": "Yoji Anjo",
+      "renamed": true
+    },
+    {
+      "id": 107,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "矢野 / 尚樹",
+      "display": "사노 나오키",
+      "english": "Naoki Sano",
+      "renamed": true
+    },
+    {
+      "id": 108,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "松原 / デンジャー",
+      "display": "마츠나가 미츠히로",
+      "english": "Mitsuhiro Matsunaga",
+      "renamed": true
+    },
+    {
+      "id": 109,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "朱井 / 勝也",
+      "display": "나가이 미츠야",
+      "english": "Mitsuya Nagai",
+      "renamed": true
+    },
+    {
+      "id": 110,
+      "promotion": 2,
+      "group": "SUPER NOVA",
+      "original": "引田 / 大作",
+      "display": "이케다 다이스케",
+      "english": "Daisuke Ikeda",
+      "renamed": true
+    },
+    {
+      "id": 111,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "折倉 / 雅夫",
+      "display": "오리하라 마사오",
+      "english": "Masao Orihara",
+      "renamed": true
+    },
+    {
+      "id": 112,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "後月 / 正成",
+      "display": "모치즈키 마사아키",
+      "english": "Masaaki Mochizuki",
+      "renamed": true
+    },
+    {
+      "id": 113,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "ナイト / ブラスター",
+      "display": "호크 워리어",
+      "english": "Hawk Warrior",
+      "renamed": true
+    },
+    {
+      "id": 114,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "アイアン / ブラスター",
+      "display": "애니멀 워리어",
+      "english": "Animal Warrior",
+      "renamed": true
+    },
+    {
+      "id": 115,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "タイガー / マッド",
+      "display": "타이거 지트 싱",
+      "english": "Tiger Jeet Singh",
+      "renamed": true
+    },
+    {
+      "id": 116,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "タトゥー",
+      "display": "사부",
+      "english": "Sabu",
+      "renamed": true
+    },
+    {
+      "id": 117,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "ランダム / ログ",
+      "display": "롭 밴 댐",
+      "english": "Rob Van Dam",
+      "renamed": true
+    },
+    {
+      "id": 118,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "カグラ / ザ・ミステリアス",
+      "display": "그레이트 가부키",
+      "english": "The Great Kabuki",
+      "renamed": true
+    },
+    {
+      "id": 119,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "オーディーン / スチーム",
+      "display": "스톤콜드 스티브 오스틴",
+      "english": "Stone Cold Steve Austin",
+      "renamed": true
+    },
+    {
+      "id": 120,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "ラック / レイピア",
+      "display": "더 록",
+      "english": "The Rock",
+      "renamed": true
+    },
+    {
+      "id": 121,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "グラウンド / ジ・アンダー",
+      "display": "언더테이커",
+      "english": "The Undertaker",
+      "renamed": true
+    },
+    {
+      "id": 122,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "トラブルＪ",
+      "display": "트리플 H",
+      "english": "Triple H",
+      "renamed": true
+    },
+    {
+      "id": 123,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "ギガント / ジョー",
+      "display": "빅 쇼",
+      "english": "Big Show",
+      "renamed": true
+    },
+    {
+      "id": 124,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "マイン",
+      "display": "케인",
+      "english": "Kane",
+      "renamed": true
+    },
+    {
+      "id": 125,
+      "promotion": 15,
+      "group": "격투가",
+      "original": "ハーロック / ケイン",
+      "display": "케인 하록",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 126,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "ニギー / バン",
+      "display": "빌리 건",
+      "english": "Billy Gunn",
+      "renamed": true
+    },
+    {
+      "id": 127,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "ノック / ボーロ",
+      "display": "로드 독",
+      "english": "Road Dogg",
+      "renamed": true
+    },
+    {
+      "id": 128,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "Ｗパッケージ",
+      "display": "엑스팍",
+      "english": "X-Pac",
+      "renamed": true
+    },
+    {
+      "id": 129,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "スモウ / ファット",
+      "display": "리키쉬",
+      "english": "Rikishi",
+      "renamed": true
+    },
+    {
+      "id": 130,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "スミス / マイティボウイ",
+      "display": "데이비 보이 스미스",
+      "english": "Davey Boy Smith",
+      "renamed": true
+    },
+    {
+      "id": 131,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "ゲノア / ルイツ",
+      "display": "크리스 벤와",
+      "english": "Chris Benoit",
+      "renamed": true
+    },
+    {
+      "id": 132,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "ジェイク / ルイツ",
+      "display": "크리스 제리코",
+      "english": "Chris Jericho",
+      "renamed": true
+    },
+    {
+      "id": 133,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "ラテンコ / ディープ",
+      "display": "딘 말렌코",
+      "english": "Dean Malenko",
+      "renamed": true
+    },
+    {
+      "id": 134,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "ケリー / ネベロ",
+      "display": "에디 게레로",
+      "english": "Eddie Guerrero",
+      "renamed": true
+    },
+    {
+      "id": 135,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "ＫＡＺ",
+      "display": "태즈",
+      "english": "Tazz",
+      "renamed": true
+    },
+    {
+      "id": 136,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "コレア",
+      "display": "차이나",
+      "english": "Chyna",
+      "renamed": true
+    },
+    {
+      "id": 137,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "ＷＡＫＡ / ゆきぐに",
+      "display": "타카 미치노쿠",
+      "english": "TAKA Michinoku",
+      "renamed": true
+    },
+    {
+      "id": 138,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "船越 / 栄一",
+      "display": "쇼이치 후나키",
+      "english": "Shoichi Funaki",
+      "renamed": true
+    },
+    {
+      "id": 139,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "ロシュモフ / ジャイアント",
+      "display": "앙드레 더 자이언트",
+      "english": "Andre the Giant",
+      "renamed": true
+    },
+    {
+      "id": 140,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "シュール / マイルズ",
+      "display": "숀 마이클스",
+      "english": "Shawn Michaels",
+      "renamed": true
+    },
+    {
+      "id": 141,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "ドンハウンド",
+      "display": "맨카인드",
+      "english": "Mankind",
+      "renamed": true
+    },
+    {
+      "id": 142,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "ディンク / カクラコン",
+      "display": "빈스 맥마흔",
+      "english": "Vince McMahon",
+      "renamed": true
+    },
+    {
+      "id": 143,
+      "promotion": 10,
+      "group": "WWC 프로레슬링",
+      "original": "ウィル / コールドバック",
+      "display": "빌 골드버그",
+      "english": "Bill Goldberg",
+      "renamed": true
+    },
+    {
+      "id": 144,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "ドゥガン / アックス",
+      "display": "헐크 호건",
+      "english": "Hulk Hogan",
+      "renamed": true
+    },
+    {
+      "id": 145,
+      "promotion": 10,
+      "group": "WWC 프로레슬링",
+      "original": "スレンダー / ディック",
+      "display": "릭 플레어",
+      "english": "Ric Flair",
+      "renamed": true
+    },
+    {
+      "id": 146,
+      "promotion": 10,
+      "group": "WWC 프로레슬링",
+      "original": "サーベル / マッチョ",
+      "display": "랜디 새비지",
+      "english": "Randy Savage",
+      "renamed": true
+    },
+    {
+      "id": 147,
+      "promotion": 10,
+      "group": "WWC 프로레슬링",
+      "original": "ブラッド / ビート",
+      "display": "브렛 하트",
+      "english": "Bret Hart",
+      "renamed": true
+    },
+    {
+      "id": 148,
+      "promotion": 10,
+      "group": "WWC 프로레슬링",
+      "original": "ガッシュ / レビン",
+      "display": "케빈 내시",
+      "english": "Kevin Nash",
+      "renamed": true
+    },
+    {
+      "id": 149,
+      "promotion": 10,
+      "group": "WWC 프로레슬링",
+      "original": "コーズ / スポット",
+      "display": "스콧 홀",
+      "english": "Scott Hall",
+      "renamed": true
+    },
+    {
+      "id": 150,
+      "promotion": 10,
+      "group": "WWC 프로레슬링",
+      "original": "セット / ディカス",
+      "display": "시드 비셔스",
+      "english": "Sid Vicious",
+      "renamed": true
+    },
+    {
+      "id": 151,
+      "promotion": 10,
+      "group": "WWC 프로레슬링",
+      "original": "スパイク / ザ",
+      "display": "스팅",
+      "english": "Sting",
+      "renamed": true
+    },
+    {
+      "id": 152,
+      "promotion": 10,
+      "group": "WWC 프로레슬링",
+      "original": "武道 / ザ・グレイテスト",
+      "display": "그레이트 무타",
+      "english": "The Great Muta",
+      "renamed": true
+    },
+    {
+      "id": 153,
+      "promotion": 10,
+      "group": "WWC 프로레슬링",
+      "original": "ビッグ / シュタイナー",
+      "display": "릭 스타이너",
+      "english": "Rick Steiner",
+      "renamed": true
+    },
+    {
+      "id": 154,
+      "promotion": 10,
+      "group": "WWC 프로레슬링",
+      "original": "スモール / シュタイナー",
+      "display": "스콧 스타이너",
+      "english": "Scott Steiner",
+      "renamed": true
+    },
+    {
+      "id": 155,
+      "promotion": 10,
+      "group": "WWC 프로레슬링",
+      "original": "エッジ / Ｄグラス",
+      "display": "다이아몬드 댈러스 페이지",
+      "english": "Diamond Dallas Page",
+      "renamed": true
+    },
+    {
+      "id": 156,
+      "promotion": 10,
+      "group": "WWC 프로레슬링",
+      "original": "バレット / ビル",
+      "display": "제프 제럿",
+      "english": "Jeff Jarrett",
+      "renamed": true
+    },
+    {
+      "id": 157,
+      "promotion": 10,
+      "group": "WWC 프로레슬링",
+      "original": "ギガス / スマッシャー・ＧＧ",
+      "display": "뱀 뱀 비글로우",
+      "english": "Bam Bam Bigelow",
+      "renamed": true
+    },
+    {
+      "id": 158,
+      "promotion": 10,
+      "group": "WWC 프로레슬링",
+      "original": "ゴッサム / バイス",
+      "display": "마이크 어썸",
+      "english": "Mike Awesome",
+      "renamed": true
+    },
+    {
+      "id": 159,
+      "promotion": 10,
+      "group": "WWC 프로레슬링",
+      "original": "オオハシ / ヤス",
+      "display": "카즈 하야시",
+      "english": "Kaz Hayashi",
+      "renamed": true
+    },
+    {
+      "id": 160,
+      "promotion": 10,
+      "group": "WWC 프로레슬링",
+      "original": "ケリー / テキサン",
+      "display": "테리 펑크",
+      "english": "Terry Funk",
+      "renamed": true
+    },
+    {
+      "id": 161,
+      "promotion": 11,
+      "group": "THREE-A",
+      "original": "サントス / Ｅ",
+      "display": "엘 이호 델 산토",
+      "english": "El Hijo Del Santo",
+      "renamed": true
+    },
+    {
+      "id": 162,
+      "promotion": 11,
+      "group": "THREE-A",
+      "original": "カオス / ネグレクト",
+      "display": "네그로 카사스",
+      "english": "Negro Casas",
+      "renamed": true
+    },
+    {
+      "id": 163,
+      "promotion": 11,
+      "group": "THREE-A",
+      "original": "Ｄシルバー / Ｊｒ．",
+      "display": "닥터 와그너Jr.",
+      "english": "Dr. Wagner Jr.",
+      "renamed": true
+    },
+    {
+      "id": 164,
+      "promotion": 11,
+      "group": "THREE-A",
+      "original": "イーグル / マスカラ",
+      "display": "도스 카라스",
+      "english": "Dos Caras",
+      "renamed": true
+    },
+    {
+      "id": 165,
+      "promotion": 11,
+      "group": "THREE-A",
+      "original": "コンドル / マスカラ",
+      "display": "밀 마스카라스",
+      "english": "Mil Mascaras",
+      "renamed": true
+    },
+    {
+      "id": 166,
+      "promotion": 12,
+      "group": "공스",
+      "original": "峰村 / 崇",
+      "display": "미네무라 타카시",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 167,
+      "promotion": 12,
+      "group": "공스",
+      "original": "宝坂 / 大志",
+      "display": "호사카 타이시",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 168,
+      "promotion": 12,
+      "group": "공스",
+      "original": "河本 / 信宏",
+      "display": "카와모토 노부히로",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 169,
+      "promotion": 12,
+      "group": "공스",
+      "original": "ガブリエル / リカード",
+      "display": "리카르도 가브리엘",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 170,
+      "promotion": 12,
+      "group": "공스",
+      "original": "バーン / ウォルフ",
+      "display": "울프 번",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 171,
+      "promotion": 12,
+      "group": "공스",
+      "original": "ハイマン / ランス",
+      "display": "랜스 하이먼",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 172,
+      "promotion": 12,
+      "group": "공스",
+      "original": "冴刃 / 明",
+      "display": "사에바 아키라",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 173,
+      "promotion": 13,
+      "group": "하이클래스",
+      "original": "桧垣 / 誠",
+      "display": "히가키 마코토",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 174,
+      "promotion": 13,
+      "group": "하이클래스",
+      "original": "千堂 / 勇気",
+      "display": "센도 유키",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 175,
+      "promotion": 13,
+      "group": "하이클래스",
+      "original": "高石 / 俊樹",
+      "display": "타카이시 토시키",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 176,
+      "promotion": 13,
+      "group": "하이클래스",
+      "original": "シュトゥルム / ベーム",
+      "display": "뵘 슈투름",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 177,
+      "promotion": 14,
+      "group": "배틀레이션",
+      "original": "石原 / 冬威",
+      "display": "이시하라 후유나리",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 178,
+      "promotion": 14,
+      "group": "배틀레이션",
+      "original": "大月 / ヘラクレス",
+      "display": "헤라클레스 오즈키",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 179,
+      "promotion": 14,
+      "group": "배틀레이션",
+      "original": "トネ / ムハンマド",
+      "display": "무함마드 토네",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 180,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "谷中 / 充",
+      "display": "타나카 미노루",
+      "english": "Minoru Tanaka",
+      "renamed": true
+    },
+    {
+      "id": 181,
+      "promotion": 14,
+      "group": "배틀레이션",
+      "original": "三鷹 / 竜斗",
+      "display": "미타카 류토",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 182,
+      "promotion": 15,
+      "group": "격투가",
+      "original": "野川 / 裕也",
+      "display": "노가와 히로야",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 183,
+      "promotion": 15,
+      "group": "격투가",
+      "original": "柏田 / 一樹",
+      "display": "카시와다 카즈키",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 184,
+      "promotion": 15,
+      "group": "격투가",
+      "original": "梶田 / 政之",
+      "display": "카지타 마사유키",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 185,
+      "promotion": 8,
+      "group": "FREE",
+      "original": "真田 / 伸久",
+      "display": "타카다 노부히코",
+      "english": "Nobuhiko Takada",
+      "renamed": true
+    },
+    {
+      "id": 186,
+      "promotion": 15,
+      "group": "격투가",
+      "original": "佐岳 / 雅之",
+      "display": "사다케 마사유키",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 187,
+      "promotion": 15,
+      "group": "격투가",
+      "original": "センネン / 木下",
+      "display": "센넨 키노시타",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 188,
+      "promotion": 15,
+      "group": "격투가",
+      "original": "フミヤ / 加藤",
+      "display": "카토 후미야",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 189,
+      "promotion": 15,
+      "group": "격투가",
+      "original": "犬神 / 一義",
+      "display": "이누가미 카즈요시",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 190,
+      "promotion": 15,
+      "group": "격투가",
+      "original": "アレビン / ヘラクレス",
+      "display": "헤라클레스 알레빈",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 191,
+      "promotion": 15,
+      "group": "격투가",
+      "original": "ロブハンキン / ルガール",
+      "display": "루갈 로브한킨",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 192,
+      "promotion": 15,
+      "group": "격투가",
+      "original": "ベアー / マイク",
+      "display": "마이크 베어",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 193,
+      "promotion": 15,
+      "group": "격투가",
+      "original": "ニクソン / ステイシー",
+      "display": "닉슨 스테이시",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 194,
+      "promotion": 15,
+      "group": "격투가",
+      "original": "ヴォイス / ステイシー",
+      "display": "보이스 스테이시",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 195,
+      "promotion": 0,
+      "group": "VIEW JAPAN",
+      "original": "クライ / ボーン",
+      "display": "돈 프라이",
+      "english": "Don Frye",
+      "renamed": true
+    },
+    {
+      "id": 196,
+      "promotion": 15,
+      "group": "격투가",
+      "original": "カール / チーター",
+      "display": "치타 카를",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 197,
+      "promotion": 15,
+      "group": "격투가",
+      "original": "ゴースト / ホーネット",
+      "display": "호넷 고스트",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 198,
+      "promotion": 15,
+      "group": "격투가",
+      "original": "ゲルハルト / ベイク",
+      "display": "베이크 게르하르트",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 199,
+      "promotion": 15,
+      "group": "격투가",
+      "original": "ファグ / アンドレ",
+      "display": "안드레 파그",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 200,
+      "promotion": 15,
+      "group": "격투가",
+      "original": "ロッシュ / ネバーランド",
+      "display": "네버랜드 로슈",
+      "english": "",
+      "renamed": false
+    },
+    {
+      "id": 201,
+      "promotion": 16,
+      "group": "여자",
+      "original": "那須香 / ティグレス",
+      "display": "라이오네스 아스카",
+      "english": "Lioness Asuka",
+      "renamed": true
+    },
+    {
+      "id": 202,
+      "promotion": 16,
+      "group": "여자",
+      "original": "中世 / 静香",
+      "display": "나가요 치구사",
+      "english": "Chigusa Nagayo",
+      "renamed": true
+    },
+    {
+      "id": 203,
+      "promotion": 16,
+      "group": "여자",
+      "original": "涼子 / 木下",
+      "display": "이노우에 쿄코",
+      "english": "Kyoko Inoue",
+      "renamed": true
+    },
+    {
+      "id": 204,
+      "promotion": 16,
+      "group": "여자",
+      "original": "神咲 / しおり",
+      "display": "칸도리 시노부",
+      "english": "Shinobu Kandori",
+      "renamed": true
+    },
+    {
+      "id": 205,
+      "promotion": 16,
+      "group": "여자",
+      "original": "ラジャ / ダンク",
+      "display": "아자 콩",
+      "english": "Aja Kong",
+      "renamed": true
+    },
+    {
+      "id": 206,
+      "promotion": 16,
+      "group": "여자",
+      "original": "西京 / グレネード",
+      "display": "다이너마이트 칸사이",
+      "english": "Dynamite Kansai",
+      "renamed": true
+    },
+    {
+      "id": 207,
+      "promotion": 16,
+      "group": "여자",
+      "original": "福生 / 有紀子",
+      "display": "홋타 유미코",
+      "english": "Yumiko Hotta",
+      "renamed": true
+    },
+    {
+      "id": 208,
+      "promotion": 16,
+      "group": "여자",
+      "original": "横田 / 奈々美",
+      "display": "토요타 마나미",
+      "english": "Manami Toyota",
+      "renamed": true
+    },
+    {
+      "id": 209,
+      "promotion": 16,
+      "group": "여자",
+      "original": "南斗 / 光",
+      "display": "호쿠토 아키라",
+      "english": "Akira Hokuto",
+      "renamed": true
+    },
+    {
+      "id": 210,
+      "promotion": 16,
+      "group": "여자",
+      "original": "香奈子 / 木下",
+      "display": "이노우에 타카코",
+      "english": "Takako Inoue",
+      "renamed": true
+    },
+    {
+      "id": 211,
+      "promotion": 16,
+      "group": "여자",
+      "original": "ブルドーザ / 高尾",
+      "display": "불 나카노",
+      "english": "Bull Nakano",
+      "renamed": true
+    },
+    {
+      "id": 212,
+      "promotion": 17,
+      "group": "LEGEND",
+      "original": "クラウザー / カルロス",
+      "display": "칼 고치",
+      "english": "Karl Gotch",
+      "renamed": true
+    },
+    {
+      "id": 213,
+      "promotion": 17,
+      "group": "LEGEND",
+      "original": "フェイズ / Ｒ・Ｊ",
+      "display": "루 테즈",
+      "english": "Lou Thesz",
+      "renamed": true
+    },
+    {
+      "id": 214,
+      "promotion": 17,
+      "group": "LEGEND",
+      "original": "力皇斬",
+      "display": "역도산",
+      "english": "Rikidozan",
+      "renamed": true
+    },
+    {
+      "id": 215,
+      "promotion": 2,
+      "group": "SUPER NOVA",
+      "original": "力士王 / 崇",
+      "display": "리키오 타케시",
+      "english": "Takeshi Rikio",
+      "renamed": true
+    },
+    {
+      "id": 216,
+      "promotion": 3,
+      "group": "신생 IW",
+      "original": "ＨＡＮＺＯ",
+      "display": "고에몬",
+      "english": "GOEMON",
+      "renamed": true
+    },
+    {
+      "id": 217,
+      "promotion": 3,
+      "group": "신생 IW",
+      "original": "ダイナソー / 高木",
+      "display": "맘모스 사사키",
+      "english": "Mammoth Sasaki",
+      "renamed": true
+    },
+    {
+      "id": 218,
+      "promotion": 9,
+      "group": "WFW 프로레슬링",
+      "original": "バックル / バート",
+      "display": "커트 앵글",
+      "english": "Kurt Angle",
+      "renamed": true
+    },
+    {
+      "id": 219,
+      "promotion": 10,
+      "group": "WWC 프로레슬링",
+      "original": "ハッカーＤ",
+      "display": "부커 T",
+      "english": "Booker T",
+      "renamed": true
+    }
+  ],
+  "extra": [
+    {
+      "id": "SPIKE1_4:0",
+      "group": "SUPER NOVA",
+      "source_promotion": 2,
+      "original": "タランチュラ",
+      "display": "투 콜드 스콜피오",
+      "english": "2 Cold Scorpio",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "링의 DJ",
+      "finisher": "슈퍼 타란툴라 스플래시"
+    },
+    {
+      "id": "SPIKE1_4:1",
+      "group": "신생 IW",
+      "source_promotion": 3,
+      "original": "亡霊",
+      "display": "온료",
+      "english": "Onryo",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "격투하는 유령의 집",
+      "finisher": "망령 클러치"
+    },
+    {
+      "id": "SPIKE1_4:2",
+      "group": "SUPER NOVA",
+      "source_promotion": 2,
+      "original": "角辻 / 尚道",
+      "display": "마루후지 나오미치",
+      "english": "Naomichi Marufuji",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "비행 청년",
+      "finisher": "시라누이"
+    },
+    {
+      "id": "SPIKE1_4:3",
+      "group": "초룡관",
+      "source_promotion": 5,
+      "original": "満田 / 靖志",
+      "display": "칸다 야스시",
+      "english": "Yasushi Kanda",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "인생 하극상",
+      "finisher": "돌핀 D 엘보 드롭"
+    },
+    {
+      "id": "SPIKE1_4:4",
+      "group": "초룡관",
+      "source_promotion": 5,
+      "original": "後月 / 亨",
+      "display": "모치즈키 스스무",
+      "english": "Susumu Mochizuki",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "N2M의 돌격병",
+      "finisher": "하와이안 크러셔"
+    },
+    {
+      "id": "SPIKE1_4:5",
+      "group": "격투가",
+      "source_promotion": 15,
+      "original": "火野 / マサル",
+      "display": "히노 마사루",
+      "english": "",
+      "kind": "격투가·슈트 계열 표기 유지",
+      "renamed": false,
+      "nickname": "슈팅 프린스",
+      "finisher": "시저스 초크 슬리퍼"
+    },
+    {
+      "id": "SPIKE1_4:6",
+      "group": "격투가",
+      "source_promotion": 15,
+      "original": "バッドエッジ / グーリー",
+      "display": "굴리 배드에지",
+      "english": "",
+      "kind": "격투가·슈트 계열 표기 유지",
+      "renamed": false,
+      "nickname": "검은 탄환",
+      "finisher": "괴력 러시"
+    },
+    {
+      "id": "SPIKE1_4:7",
+      "group": "VIEW JAPAN",
+      "source_promotion": 0,
+      "original": "慶三 / 観月",
+      "display": "스즈키 켄조",
+      "english": "Kenzo Suzuki",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "골든 루키",
+      "finisher": "급강하 백드롭"
+    },
+    {
+      "id": "SPIKE1_4:8",
+      "group": "여자",
+      "source_promotion": 16,
+      "original": "Ｔｏｍｏ / ミルキー",
+      "display": "캔디 오쿠츠",
+      "english": "Candy Okutsu",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "프리티 테크니션",
+      "finisher": "문설트 프레스"
+    },
+    {
+      "id": "SPIKE1_4:9",
+      "group": "OLIVE JAPAN",
+      "source_promotion": 1,
+      "original": "淡谷 / 伸久",
+      "display": "아라야 노부타카",
+      "english": "Nobutaka Araya",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "브랜뉴 선더",
+      "finisher": "문설트 프레스"
+    },
+    {
+      "id": "SPIKE2_4:0",
+      "group": "격투가",
+      "source_promotion": 15,
+      "original": "山路 / 章",
+      "display": "야마지 아키라",
+      "english": "",
+      "kind": "격투가·슈트 계열 표기 유지",
+      "renamed": false,
+      "nickname": "일본 남아",
+      "finisher": "십자 팔 꺾기"
+    },
+    {
+      "id": "SPIKE2_4:1",
+      "group": "격투가",
+      "source_promotion": 15,
+      "original": "オールマン / マイク",
+      "display": "마이크 올맨",
+      "english": "",
+      "kind": "격투가·슈트 계열 표기 유지",
+      "renamed": false,
+      "nickname": "궁극의 쇠망치",
+      "finisher": "마운트 헤드버트"
+    },
+    {
+      "id": "SPIKE2_4:2",
+      "group": "FREE",
+      "source_promotion": 8,
+      "original": "マイト / スティル",
+      "display": "스티브 라이트",
+      "english": "Steve Wright",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "뱀의 굴에서 온 자객",
+      "finisher": "로메로 스페셜"
+    },
+    {
+      "id": "SPIKE2_4:3",
+      "group": "FREE",
+      "source_promotion": 21,
+      "original": "風車 / 理論",
+      "display": "풍차 이론",
+      "english": "",
+      "kind": "실존 모델 미확정·기존 표기 유지",
+      "renamed": false,
+      "nickname": "불타는 혼",
+      "finisher": "백드롭"
+    },
+    {
+      "id": "SPIKE2_4:4",
+      "group": "FREE",
+      "source_promotion": 21,
+      "original": "カン / ダーシー",
+      "display": "배리 윈덤",
+      "english": "Barry Windham",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "클래식",
+      "finisher": "필살 저먼 수플렉스"
+    },
+    {
+      "id": "SPIKE2_4:5",
+      "group": "공스",
+      "source_promotion": 12,
+      "original": "オフライン / ヴァレンチノ",
+      "display": "발렌티노 오프라인",
+      "english": "",
+      "kind": "격투가·슈트 계열 표기 유지",
+      "renamed": false,
+      "nickname": "네덜란드의 신성",
+      "finisher": "변속 킥"
+    },
+    {
+      "id": "SPIKE2_4:6",
+      "group": "격투가",
+      "source_promotion": 15,
+      "original": "シルバ / ガンマレイ・ダ",
+      "display": "감마레이 다 실바",
+      "english": "",
+      "kind": "격투가·슈트 계열 표기 유지",
+      "renamed": false,
+      "nickname": "전율의 니킥",
+      "finisher": "마운트 너클 애로"
+    },
+    {
+      "id": "SPIKE2_4:7",
+      "group": "공스",
+      "source_promotion": 12,
+      "original": "クーバー / アンディ",
+      "display": "앤디 쿠버",
+      "english": "",
+      "kind": "격투가·슈트 계열 표기 유지",
+      "renamed": false,
+      "nickname": "그루섬의 제왕",
+      "finisher": "마운트 너클 애로"
+    },
+    {
+      "id": "SPIKE2_4:8",
+      "group": "FREE",
+      "source_promotion": 21,
+      "original": "疑似狼 / （ギジロウ）",
+      "display": "울프 호크필드",
+      "english": "Wolf Hawkfield",
+      "kind": "VF 게스트 캐릭터",
+      "renamed": true,
+      "nickname": "리얼 파이터",
+      "finisher": "자이언트 스윙"
+    },
+    {
+      "id": "SPIKE2_4:9",
+      "group": "LEGEND",
+      "source_promotion": 17,
+      "original": "平成 / デルフィン人間",
+      "display": "헤이세이 델핀 인간",
+      "english": "",
+      "kind": "실존 모델 미확정·기존 표기 유지",
+      "renamed": false,
+      "nickname": "멈추지 않는 비상벨",
+      "finisher": "헤이델식 사도"
+    },
+    {
+      "id": "SPIKE6:0",
+      "group": "LEGEND",
+      "source_promotion": 17,
+      "original": "信濃 / ストロング",
+      "display": "사카구치 세이지",
+      "english": "Seiji Sakaguchi",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "세계의 큰 발",
+      "finisher": "아르헨티나 백브레이커"
+    },
+    {
+      "id": "SPIKE6:1",
+      "group": "LEGEND",
+      "source_promotion": 17,
+      "original": "マサ / ゾンビ",
+      "display": "마사 사이토",
+      "english": "Masa Saito",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "감옥의 야수",
+      "finisher": "리프트업 백드롭"
+    },
+    {
+      "id": "SPIKE6:2",
+      "group": "LEGEND",
+      "source_promotion": 17,
+      "original": "ハーン / モンゴル",
+      "display": "킬러 칸",
+      "english": "Killer Khan",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "몽골 제국의 혈족",
+      "finisher": "다이빙 더블 니 드롭"
+    },
+    {
+      "id": "SPIKE6:3",
+      "group": "LEGEND",
+      "source_promotion": 17,
+      "original": "会津 / 義幸",
+      "display": "야츠 요시아키",
+      "english": "Yoshiaki Yatsu",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "원더 파워",
+      "finisher": "원더 수플렉스"
+    },
+    {
+      "id": "SPIKE6:4",
+      "group": "LEGEND",
+      "source_promotion": 17,
+      "original": "源 / ヒットマン",
+      "display": "아슈라 하라",
+      "english": "Ashura Hara",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "피에 물든 아수라",
+      "finisher": "히트맨 래리어트"
+    },
+    {
+      "id": "SPIKE6:5",
+      "group": "LEGEND",
+      "source_promotion": 17,
+      "original": "矢島 / ゴールドアーム",
+      "display": "와지마 히로시",
+      "english": "Hiroshi Wajima",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "황금의 팬츠",
+      "finisher": "야지마 스페셜"
+    },
+    {
+      "id": "SPIKE6:6",
+      "group": "LEGEND",
+      "source_promotion": 17,
+      "original": "マーベリック / ディック",
+      "display": "딕 머독",
+      "english": "Dick Murdoch",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "서부의 광견",
+      "finisher": "시간차 수직낙하 버스터"
+    },
+    {
+      "id": "SPIKE6:7",
+      "group": "LEGEND",
+      "source_promotion": 17,
+      "original": "デイビス / ミリオンダラー",
+      "display": "테드 디비아시",
+      "english": "Ted DiBiase",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "미스터 고저스",
+      "finisher": "밀리언 달러 버스터"
+    },
+    {
+      "id": "SPIKE6:8",
+      "group": "LEGEND",
+      "source_promotion": 17,
+      "original": "アレン / ブラッディ",
+      "display": "배드 뉴스 앨런",
+      "english": "Bad News Allen",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "검은 악의 거성",
+      "finisher": "오클라호마 스탬피드"
+    },
+    {
+      "id": "SPIKE6:9",
+      "group": "LEGEND",
+      "source_promotion": 17,
+      "original": "マックランド / モス",
+      "display": "밥 백런드",
+      "english": "Bob Backlund",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "MSG의 제왕",
+      "finisher": "치킨윙 페이스록"
+    },
+    {
+      "id": "SPIKE7:0",
+      "group": "WFW 프로레슬링",
+      "source_promotion": 9,
+      "original": "ジャイアン / デッドリー",
+      "display": "버버 레이 더들리",
+      "english": "Bubba Ray Dudley",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "광란의 테이블 킹",
+      "finisher": "3D"
+    },
+    {
+      "id": "SPIKE7:1",
+      "group": "WFW 프로레슬링",
+      "source_promotion": 9,
+      "original": "ビートン / デッドリー",
+      "display": "디본 더들리",
+      "english": "D-Von Dudley",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "갈색의 테이블 운반꾼",
+      "finisher": "리버스 브레인버스터"
+    },
+    {
+      "id": "SPIKE7:2",
+      "group": "WFW 프로레슬링",
+      "source_promotion": 9,
+      "original": "ＫＡＩＪＩ",
+      "display": "타지리",
+      "english": "Tajiri",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "오페라 극장의 괴인",
+      "finisher": "버즈소 킥"
+    },
+    {
+      "id": "SPIKE7:3",
+      "group": "THREE-A",
+      "source_promotion": 11,
+      "original": "プリンス / シルバー",
+      "display": "실버 킹",
+      "english": "Silver King",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "멕시칸 카우보이",
+      "finisher": "할리우드 스타 프레스"
+    },
+    {
+      "id": "SPIKE7:4",
+      "group": "THREE-A",
+      "source_promotion": 11,
+      "original": "リベラ / ギャランドゥー",
+      "display": "후벤투드 게레라",
+      "english": "Juventud Guerrera",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "매혹의 에스트레야",
+      "finisher": "유키구니 드라이버 2"
+    },
+    {
+      "id": "SPIKE_9:0",
+      "group": "간사이 프로레슬링",
+      "source_promotion": 7,
+      "original": "Ｂｏｍｂａ",
+      "display": "감마",
+      "english": "Gamma",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "금발의 소악마",
+      "finisher": "봄바 슬래시"
+    },
+    {
+      "id": "SPIKE_9:1",
+      "group": "간사이 프로레슬링",
+      "source_promotion": 7,
+      "original": "魔王 / ＷＡＬＴＺ",
+      "display": "다이오 QUALLT",
+      "english": "Daio QUALLT",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "나니와의 대마왕",
+      "finisher": "자이언트 초크슬램"
+    },
+    {
+      "id": "SPIKE_9:2",
+      "group": "간사이 프로레슬링",
+      "source_promotion": 7,
+      "original": "ツカサ",
+      "display": "츠바사",
+      "english": "Tsubasa",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "아시안 토네이도",
+      "finisher": "토르나도 데 아카풀코"
+    },
+    {
+      "id": "SPIKE_9:3",
+      "group": "간사이 프로레슬링",
+      "source_promotion": 7,
+      "original": "バンガロー / デラックス",
+      "display": "블랙 버펄로",
+      "english": "Black Buffalo",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "야구계에서 온 괴인 X",
+      "finisher": "방갈로 드라이버"
+    },
+    {
+      "id": "SPIKE_9:4",
+      "group": "FREE",
+      "source_promotion": 8,
+      "original": "橋沢 / 直弘",
+      "display": "호시카와 나오히로",
+      "english": "Naohiro Hoshikawa",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "방랑하는 유성",
+      "finisher": "스페셜 유성 킥"
+    },
+    {
+      "id": "SPIKE10:0",
+      "group": "WFW 프로레슬링",
+      "source_promotion": 9,
+      "original": "Ｊｅｆｆ / Ｈａｒｄｙ",
+      "display": "제프 하디",
+      "english": "Jeff Hardy",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "신형 핵탄두",
+      "finisher": "스완턴 밤"
+    },
+    {
+      "id": "SPIKE10:1",
+      "group": "WFW 프로레슬링",
+      "source_promotion": 9,
+      "original": "Ｈａｒｄｙ / Ｍａｔｔ",
+      "display": "매트 하디",
+      "english": "Matt Hardy",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "천둥 소년",
+      "finisher": "트위스트 오브 페이트"
+    },
+    {
+      "id": "SPIKE10:2",
+      "group": "WWC 프로레슬링",
+      "source_promotion": 10,
+      "original": "ｒｉｏ　ｊｒ / Ｒｅｙ　Ｍｉｓｔｅ",
+      "display": "레이 미스테리오 주니어",
+      "english": "Rey Mysterio Jr.",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "스몰 솔저",
+      "finisher": "다이빙 넥브레이커 드롭"
+    },
+    {
+      "id": "SPIKE10:3",
+      "group": "배틀레이션",
+      "source_promotion": 14,
+      "original": "園田 / 真澄",
+      "display": "소노다 마스미",
+      "english": "",
+      "kind": "격투가·슈트 계열 표기 유지",
+      "renamed": false,
+      "nickname": "격투의 구렁이",
+      "finisher": "후지와라 암바"
+    },
+    {
+      "id": "SPIKE10:4",
+      "group": "VIEW JAPAN",
+      "source_promotion": 0,
+      "original": "野中 / レイジング",
+      "display": "호나가 노리오",
+      "english": "Norio Honaga",
+      "kind": "실제 링네임 교정",
+      "renamed": true,
+      "nickname": "노련한 명인",
+      "finisher": "점핑 넥브레이커 드롭"
+    },
+    {
+      "id": "SPIKE_12:0",
+      "group": "FREE",
+      "source_promotion": 8,
+      "original": "ファイプロ君 / ミスター",
+      "display": "미스터 파이프로군",
+      "english": "Mister Fire Pro",
+      "kind": "원작 마스코트",
+      "renamed": true,
+      "nickname": "시합 판정 레슬러",
+      "finisher": "파워밤"
+    }
+  ]
+}
