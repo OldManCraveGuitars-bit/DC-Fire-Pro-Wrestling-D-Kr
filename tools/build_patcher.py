@@ -8,13 +8,13 @@ root=Path(__file__).resolve().parents[1]
 payload=root/'payload'
 if sys.platform!='win32':raise SystemExit('Windows x64 build required.')
 if not(payload/'manifest.json').is_file():
-    raise SystemExit('Extract FireProD-Kr-v0.9-Source-and-Payload.zip first.')
+    raise SystemExit('Extract FireProD-Kr-v0.901-Source-and-Payload.zip first.')
 manifest=json.loads((payload/'manifest.json').read_text('utf-8'))
-if manifest['version']!='0.9':raise SystemExit('Payload version mismatch.')
+if manifest['version']!='0.901':raise SystemExit('Payload version mismatch.')
 subprocess.run([sys.executable,'-I','-m','PyInstaller','--noconfirm','--clean',
-    '--onefile','--windowed','--name','FireProD-Kr-v0.9-Patcher',
+    '--onefile','--windowed','--name','FireProD-Kr-v0.901-Patcher',
     '--add-data',str(payload)+';payload',
     '--version-file',str(root/'packaging/version-info.txt'),
     '--distpath',str(root/'dist'),'--workpath',str(root/'build/work'),
     '--specpath',str(root/'build'),str(root/'src/patcher.py')],check=True)
-print('Built:',root/'dist/FireProD-Kr-v0.9-Patcher.exe')
+print('Built:',root/'dist/FireProD-Kr-v0.901-Patcher.exe')

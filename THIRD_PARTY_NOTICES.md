@@ -1,12 +1,12 @@
-# Fire Pro Wrestling D Korean v0.9
+# Fire Pro Wrestling D Korean v0.901
 
 한글화: 기타 깎는 노인. 패처는 사용자가 소유한 일본판 원본 CHD 또는 50트랙 GDI에 적용합니다.
-결과 GDI와 트랙50개를 함께 보관하고 새로 부팅하세요. v0.9는 개발판이며 일부 이미지와 음성 자막 등은 미완료입니다.
+결과 GDI와 트랙50개를 함께 보관하고 새로 부팅하세요. v0.901는 개발판이며 일부 이미지와 음성 자막 등은 미완료입니다.
 
 ## 실행 도구와 소스
 
 - chdman 0.264: MAMEdev 및 기여자, GNU GPL v2. 수정하지 않은 실행 파일입니다. GPL 전문과 mame0264 COPYING을 동봉합니다.
-  해당 버전의 전체 소스 `MAME-0.264-source.tar.gz`를 같은 v0.9 릴리스에서 제공합니다.
+  해당 버전의 전체 소스 `MAME-0.264-source.tar.gz`를 같은 v0.901 릴리스에서 제공합니다.
   원본 소스: https://github.com/mamedev/mame/tree/mame0264
 - xdelta3decode 3.2.1: Joshua MacDonald 및 기여자, Apache License 2.0.
   원본 소스와 빌드 안내: https://github.com/jmacd/xdelta/tree/v3.2.1

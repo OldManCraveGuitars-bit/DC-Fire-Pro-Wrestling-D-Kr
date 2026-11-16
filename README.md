@@ -1,19 +1,28 @@
 ![파이어 프로 레슬링 D 한글 타이틀](docs/images/title.png)
 
-# DC-Fire-Pro-Wrestling-D-Kr · v0.9
+# DC-Fire-Pro-Wrestling-D-Kr · v0.901
 
 **드림캐스트 파이어 프로 레슬링 D 일본판 한글 패치 · 한글화: 기타 깎는 노인**
 
-v0.9 개발판입니다. 원본을 선택해 적용하는 Windows 10/11 x64 EXE 패처를 제공합니다. 게임 원본이나 BIOS는 포함하지 않습니다.
+v0.901 개발판입니다. 원본을 선택해 적용하는 Windows 10/11 x64 EXE 패처를 제공합니다. 게임 원본이나 BIOS는 포함하지 않습니다.
+
+## 0.901 부팅 수정
+
+v0.9가 레트로아크/Flycast의 BIOS 부팅에서 본체 메뉴로 돌아가는 문제를 수정했습니다.
+실행 파일을 마지막 데이터 트랙에 배치했으며 번역·글꼴·선수·DLC·게임 코드는 동일합니다.
+GDI/CHD의 BIOS 부팅, HLE 부팅, OpenGL Core·Direct3D 11 메뉴 진입을 확인했습니다.
+**패치 전 일본판 원본에 0.901 패처를 새로 적용하세요.** [재현·수정·실행 화면](docs/RETROARCH.md).
+
+![레트로아크 BIOS 부팅 확인](docs/images/retroarch-bios-main.png)
 
 ## 다운로드와 적용
 
-[**v0.9 릴리스 / EXE 다운로드**](https://github.com/OldManCraveGuitars-bit/DC-Fire-Pro-Wrestling-D-Kr/releases/tag/v0.9)
+[**v0.901 릴리스 / EXE 다운로드**](https://github.com/OldManCraveGuitars-bit/DC-Fire-Pro-Wrestling-D-Kr/releases/tag/v0.901)
 
-1. `FireProD-Kr-v0.9-Patcher.exe`를 실행합니다. Python 별도 설치는 필요하지 않습니다.
+1. `FireProD-Kr-v0.901-Patcher.exe`를 실행합니다. Python 별도 설치는 필요하지 않습니다.
 2. 아래 해시의 일본판 원본 CHD 또는 원본 50트랙 GDI를 고릅니다. GDI라면 트랙 파일도 같은 폴더에 있어야 합니다.
 3. 새 출력 폴더를 지정하고 적용합니다. 약 5GB의 여유 공간을 준비하세요.
-4. 결과 `FireProD-KR-v0.9.gdi`와 **트랙 50개를 함께** 사용합니다. 이전 에뮬레이터 세이브스테이트 대신 새로 부팅하세요.
+4. 결과 `FireProD-KR-v0.901.gdi`와 **트랙 50개를 함께** 사용합니다. 이전 에뮬레이터 세이브스테이트 대신 새로 부팅하세요.
 
 원본은 읽기만 하며 기존 출력 폴더에는 덮어쓰지 않습니다. 원본 해시가 다르면 적용을 중단하고, 완료 전 결과 50트랙 해시를 모두 대조합니다. 압축 방식이 다른 CHD는 같은 게임이어도 컨테이너 해시가 다를 수 있습니다. 그런 경우 원본 GDI로 추출한 뒤 트랙 해시가 일치해야 적용됩니다.
 
@@ -22,15 +31,15 @@ v0.9 개발판입니다. 원본을 선택해 적용하는 Windows 10/11 x64 EXE 
 | 대상 | 크기(bytes) | SHA-256 |
 |---|---|---|
 | 일본판 원본 CHD | 689500532 | e111b7fcbeb8ad1089e4d37544dd3255b3d45cea7b959837ca1ecaf1b51b0379 |
-| 배포 EXE | 18308829 | 169272ca986f2bab9444ed7c99ca9130f59d414157a0b34bede588e08ed8b475 |
-| 적용 후 original03.bin | 104254752 | 18f3fdcf658412a202cc87cdc4a7b0d1fc4c18194b7ba1fdef6ae8244e5c3405 |
-| 적용 후 original50.bin | 111480096 | a44345b7517a21dd35ae633a817a83e9e31353488015f0ec9a904ec502ac4c07 |
+| 배포 EXE | 18870474 | a384b9673c38f35e130a9b4c99cd762e06c5e04eed94ea67e201ac846ff741aa |
+| 적용 후 original03.bin | 104254752 | 7c7a70d37c16e86af23e4be0f1e49fdbeff83edbe061a77c08dab2b2fbc9bf04 |
+| 적용 후 original50.bin | 111480096 | af8042b0075797af69a5d92fa5fb04f50c52d4cd1510bc200c9a6609ffc363f7 |
 
 GDI 설명 파일 자체는 원본과 같을 수 있습니다. 결과 판별에는 변경 트랙 03·50과 [전체 트랙 해시](docs/TRACK_HASHES.md)를 사용하세요. 배포 파일 전체 해시는 릴리스의 `SHA256SUMS.txt`와 `hashes.json`에 제공합니다.
 
 ## 적용 내용과 추가 요소
 
-| 항목 | v0.9 적용 내용 | 범위/주의 |
+| 항목 | v0.901 적용 내용 | 범위/주의 |
 |---|---|---|
 | 한글화 | 타이틀·시작 안내·주요 메뉴·기술·프로필·제작진 | 일부 이미지·의상·브라우저 그림은 일본어가 남습니다. |
 | 본문 글꼴 | 24px 본문, 공통 기준선, 반각 띄어쓰기 | 이름마다 글꼴 크기를 바꾸지 않습니다. |
@@ -648,6 +657,6 @@ FREE에는 본편 23명과 추가 6명이 섞입니다. 별도 사용자 단체 
 
 본문 Noto Sans KR 및 일부 이미지의 Neo둥근모는 OFL입니다. chdman 0.264는 GPL v2, xdelta3decode 3.2.1은 Apache 2.0이며 전문을 동봉합니다. MAME 0.264의 대응 소스도 같은 릴리스에서 별도 제공합니다. [외부 도구 고지](THIRD_PARTY_NOTICES.md). 패처 자체 소스는 [MIT](LICENSE)이며 원작 게임·로고·캐릭터·외부 도구의 권리를 대체하지 않습니다.
 
-[패처 소스](src/patcher.py)와 릴리스의 `FireProD-Kr-v0.9-Source-and-Payload.zip`에서 소스/차이 패치를 확인할 수 있습니다.
+[패처 소스](src/patcher.py)와 릴리스의 `FireProD-Kr-v0.901-Source-and-Payload.zip`에서 소스/차이 패치를 확인할 수 있습니다.
 
 [빌드 방법](docs/BUILD.md) · [배포 검수](docs/VERIFICATION.md) · [배포 파일 해시](docs/ASSET_HASHES.md)

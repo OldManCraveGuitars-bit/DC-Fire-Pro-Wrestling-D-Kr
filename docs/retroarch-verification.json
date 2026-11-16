@@ -1,0 +1,76 @@
+{
+  "passed": true,
+  "version": "0.901",
+  "reference_build": "FireProD-KR-dev-ba2361896337",
+  "retroarch_version": "1.22.2",
+  "retroarch_git": "69a4f0e",
+  "retroarch_sha256": "81c11b6f24932bf7918f05eee8928035bff3887335fd2a081507c75e9d94d06a",
+  "flycast_sha256": "bb2577bf3b32323f30a6c2c1877317ae43440706c0fc82c4ab6ed92e9f104263",
+  "flycast_source": "https://buildbot.libretro.com/nightly/windows/x86_64/latest/flycast_libretro.dll.zip",
+  "bios_md5": "e10c53c2f8b90bab96ead2d368858623",
+  "native_game_file_payloads_identical_to_v09": 51,
+  "relocated_files": {
+    "1ST_READ.BIN": [
+      45040,
+      501830
+    ],
+    "DPETC/DP3SOUND.MLT": [
+      501830,
+      45040
+    ]
+  },
+  "audio_tracks_identical": 47,
+  "ip_bin_identical": true,
+  "chd_roundtrip_all50_tracks_identical": true,
+  "cases": [
+    {
+      "case": "original-bios",
+      "content": "일본판 원본 GDI",
+      "bios": "BIOS 사용",
+      "renderer": "OpenGL Core",
+      "frames": 6000,
+      "outcome": "게임 인트로"
+    },
+    {
+      "case": "patched-bios",
+      "content": "v0.9 GDI",
+      "bios": "BIOS 사용",
+      "renderer": "OpenGL Core",
+      "frames": 6000,
+      "outcome": "본체 메뉴로 복귀: 실패"
+    },
+    {
+      "case": "fixed-bios-main",
+      "content": "0.901과 동일한 수정 GDI",
+      "bios": "BIOS 사용",
+      "renderer": "OpenGL Core",
+      "frames": 9000,
+      "outcome": "한글 메인 메뉴"
+    },
+    {
+      "case": "final-hle-main",
+      "content": "0.901 GDI",
+      "bios": "HLE 사용",
+      "renderer": "OpenGL Core",
+      "frames": 6000,
+      "outcome": "한글 경기 규칙 메뉴"
+    },
+    {
+      "case": "final-bios-d3d11",
+      "content": "0.901 GDI",
+      "bios": "BIOS 사용",
+      "renderer": "Direct3D 11",
+      "frames": 6000,
+      "outcome": "한글 경기 규칙 메뉴"
+    },
+    {
+      "case": "final-chd-bios",
+      "content": "0.901과 동일한 수정 CHD",
+      "bios": "BIOS 사용",
+      "renderer": "OpenGL Core",
+      "frames": 6000,
+      "outcome": "한글 경기 규칙 메뉴"
+    }
+  ],
+  "physical_console_tested": false
+}

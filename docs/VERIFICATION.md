@@ -1,4 +1,4 @@
-# v0.9 배포 검수
+# v0.901 배포 검수
 
 | 구분 | 결과 |
 |---|---|
@@ -19,3 +19,5 @@
 
 검사 기록: [패처](patcher-verification.json), [단체 이적](transfer-performance.json).
 실물 드림캐스트, VMU 저장 후 재부팅, 모든 기술의 개별 시전과 모든 UI 상태를 검증한 결과는 아닙니다.
+
+BIOS 부팅 배치 문제와 GDI/CHD·OpenGL/Direct3D 확인은 [0.901 레트로아크 검수](RETROARCH.md)에 기록했습니다.

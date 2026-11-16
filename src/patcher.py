@@ -1,15 +1,15 @@
-"""Fire Pro Wrestling D Korean v0.9 standalone, verified CHD/GDI patcher."""
+"""Fire Pro Wrestling D Korean v0.901 standalone, verified CHD/GDI patcher."""
 from __future__ import annotations
 import argparse,hashlib,json,os,queue,shlex,shutil,subprocess,sys,tempfile,threading
 from pathlib import Path
 
-VERSION='0.9'
-TITLE='파이어 프로 레슬링 D 한글 패처 v0.9'
+VERSION='0.901'
+TITLE='파이어 프로 레슬링 D 한글 패처 v0.901'
 
 def resources():
     if getattr(sys,'frozen',False):return Path(sys._MEIPASS)/'payload'
     base=Path(__file__).resolve().parents[1]
-    return base/'payload'if(base/'payload/manifest.json').is_file()else base/'release/v0.9/payload'
+    return base/'payload'if(base/'payload/manifest.json').is_file()else base/'release/v0.901/payload'
 
 def sha(path):
     with Path(path).open('rb')as f:return hashlib.file_digest(f,'sha256').hexdigest()
@@ -116,17 +116,17 @@ class App:
                 if self.busy:return
                 if is_source:
                     p=filedialog.askopenfilename(filetypes=[('Dreamcast CHD/GDI','*.chd *.gdi')])
-                    if p:v.set(p);self.output.set(str(Path(p).parent/'FireProD-KR-v0.9'))
+                    if p:v.set(p);self.output.set(str(Path(p).parent/'FireProD-KR-v0.901'))
                 else:
                     p=filedialog.askdirectory(title='새 결과 폴더를 만들 상위 폴더 선택')
-                    if p:v.set(str(Path(p)/'FireProD-KR-v0.9'))
+                    if p:v.set(str(Path(p)/'FireProD-KR-v0.901'))
             ttk.Button(row,text='찾기',command=choose).pack(side='right',padx=(8,0))
         ttk.Label(frame,text='결과는 새 폴더의 GDI + 트랙 50개입니다. 여유 공간 약 5GB가 필요합니다.',wraplength=780).pack(anchor='w',pady=10)
-        self.button=ttk.Button(frame,text='v0.9 한글 패치 적용',command=self.start);self.button.pack(anchor='w',pady=6)
+        self.button=ttk.Button(frame,text='v0.901 한글 패치 적용',command=self.start);self.button.pack(anchor='w',pady=6)
         self.bar=ttk.Progressbar(frame,mode='indeterminate');self.bar.pack(fill='x',pady=6)
         self.log=tk.Text(frame,height=12,wrap='word',font=('Malgun Gothic',10),state='disabled');self.log.pack(fill='both',expand=True)
         footer=ttk.Frame(frame);footer.pack(fill='x',pady=(10,0))
-        ttk.Label(footer,text='한글화: 기타 깎는 노인 · v0.9 개발판',wraplength=620).pack(side='left')
+        ttk.Label(footer,text='한글화: 기타 깎는 노인 · v0.901 개발판',wraplength=620).pack(side='left')
         ttk.Button(footer,text='도움말 / 라이선스',command=self.licenses).pack(side='right')
         root.protocol('WM_DELETE_WINDOW',self.close);root.after(100,self.tick)
     def licenses(self):
