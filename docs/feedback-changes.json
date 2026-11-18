@@ -1,0 +1,469 @@
+{
+  "date": "2026-11-18",
+  "promotion_count": 14,
+  "added_dlc_name_corrections": 7,
+  "changes": [
+    {
+      "id": "ui:0xb2974",
+      "before": "VIEW JAPAN",
+      "after": "신일본 프로레슬링",
+      "width": 204
+    },
+    {
+      "id": "ui:0xb2980",
+      "before": "OLIVE JAPAN",
+      "after": "전일본 프로레슬링",
+      "width": 204
+    },
+    {
+      "id": "ui:0xb298c",
+      "before": "SUPER NOVA",
+      "after": "NOAH",
+      "width": 80
+    },
+    {
+      "id": "ui:0xb2998",
+      "before": "신생 IW",
+      "after": "FMW",
+      "width": 64
+    },
+    {
+      "id": "ui:0xb29a0",
+      "before": "유키구니 프로레슬링",
+      "after": "미치노쿠 프로레스",
+      "width": 204
+    },
+    {
+      "id": "ui:0xb29b0",
+      "before": "초룡관",
+      "after": "투용문",
+      "width": 72
+    },
+    {
+      "id": "ui:0xb29b8",
+      "before": "ZIP JAPAN",
+      "after": "대일본 프로레스",
+      "width": 180
+    },
+    {
+      "id": "ui:0xb29c4",
+      "before": "간사이 프로레슬링",
+      "after": "오사카 프로레스",
+      "width": 180
+    },
+    {
+      "id": "ui:0xb29d0",
+      "before": "WFW",
+      "after": "WWF",
+      "width": 65
+    },
+    {
+      "id": "ui:0xb29dc",
+      "before": "WWC",
+      "after": "WCW",
+      "width": 66
+    },
+    {
+      "id": "ui:0xb29e8",
+      "before": "THREE-A",
+      "after": "AAA",
+      "width": 54
+    },
+    {
+      "id": "ui:0xb29f0",
+      "before": "공스",
+      "after": "RINGS",
+      "width": 85
+    },
+    {
+      "id": "ui:0xb29f8",
+      "before": "하이클래스",
+      "after": "판크라스",
+      "width": 96
+    },
+    {
+      "id": "ui:0xb2a00",
+      "before": "격투탐험대 배틀레이션",
+      "after": "격투탐정단 바트라츠",
+      "width": 228
+    },
+    {
+      "id": "ui:0xb2d7c",
+      "before": "신생 IW 정규군",
+      "after": "FMW 정규군",
+      "width": 148
+    },
+    {
+      "id": "ui:0xb2db8",
+      "before": "ZIP JAPAN",
+      "after": "대일본 프로레스",
+      "width": 180
+    },
+    {
+      "id": "ui:0xb2dcc",
+      "before": "WFW군 A",
+      "after": "WWF군 A",
+      "width": 119
+    },
+    {
+      "id": "ui:0xb2dd4",
+      "before": "WFW군 B",
+      "after": "WWF군 B",
+      "width": 120
+    },
+    {
+      "id": "ui:0xb2de4",
+      "before": "WWC군 A",
+      "after": "WCW군 A",
+      "width": 120
+    },
+    {
+      "id": "ui:0xb2dec",
+      "before": "WWC군 B",
+      "after": "WCW군 B",
+      "width": 121
+    },
+    {
+      "id": "ui:0xb2df4",
+      "before": "공스 베스트",
+      "after": "RINGS 베스트",
+      "width": 169
+    },
+    {
+      "id": "ui:0xb2e00",
+      "before": "격투탐험대 배틀레이션",
+      "after": "격투탐정단 바트라츠",
+      "width": 228
+    },
+    {
+      "id": "ui:0xb2e90",
+      "before": "하이클래스",
+      "after": "판크라스",
+      "width": 96
+    },
+    {
+      "id": "ui:0xb2e98",
+      "before": "S-1 파이터",
+      "after": "K-1 파이터",
+      "width": 131
+    },
+    {
+      "id": "ui:0xbb874",
+      "before": "신생 IW 정규군",
+      "after": "FMW 정규군",
+      "width": 148
+    },
+    {
+      "id": "ui:0xbb8c4",
+      "before": "WWC 정규군",
+      "after": "WCW 정규군",
+      "width": 150
+    },
+    {
+      "id": "ui:0xbb8d8",
+      "before": "WWC 주니어",
+      "after": "WCW 주니어",
+      "width": 150
+    },
+    {
+      "id": "ui:0xbb8e4",
+      "before": "WFW",
+      "after": "WWF",
+      "width": 65
+    },
+    {
+      "id": "ui:0xbb8f8",
+      "before": "공스 베스트",
+      "after": "RINGS 베스트",
+      "width": 169
+    },
+    {
+      "id": "ui:0xbb90c",
+      "before": "S-1 파이터",
+      "after": "K-1 파이터",
+      "width": 131
+    },
+    {
+      "id": "ui:0xbb92c",
+      "before": "하이클래스",
+      "after": "판크라스",
+      "width": 96
+    },
+    {
+      "id": "fixed:0x1188d8",
+      "before": "VIEW JAPAN",
+      "after": "신일본 프로레슬링",
+      "width": 204
+    },
+    {
+      "id": "fixed:0x1188f2",
+      "before": "OLIVE JAPAN",
+      "after": "전일본 프로레슬링",
+      "width": 204
+    },
+    {
+      "id": "fixed:0x11890c",
+      "before": "SUPER NOVA",
+      "after": "NOAH",
+      "width": 80
+    },
+    {
+      "id": "fixed:0x118926",
+      "before": "신생 IW",
+      "after": "FMW",
+      "width": 64
+    },
+    {
+      "id": "fixed:0x118940",
+      "before": "유키구니 프로레슬링",
+      "after": "미치노쿠 프로레스",
+      "width": 204
+    },
+    {
+      "id": "fixed:0x11895a",
+      "before": "초룡관",
+      "after": "투용문",
+      "width": 72
+    },
+    {
+      "id": "fixed:0x118974",
+      "before": "ZIP JAPAN",
+      "after": "대일본 프로레스",
+      "width": 180
+    },
+    {
+      "id": "fixed:0x11898e",
+      "before": "간사이 프로레슬링",
+      "after": "오사카 프로레스",
+      "width": 180
+    },
+    {
+      "id": "fixed:0x1189c2",
+      "before": "WFW 프로레슬링",
+      "after": "WWF",
+      "width": 65
+    },
+    {
+      "id": "fixed:0x1189dc",
+      "before": "WWC 프로레슬링",
+      "after": "WCW",
+      "width": 66
+    },
+    {
+      "id": "fixed:0x1189f6",
+      "before": "THREE-A",
+      "after": "AAA",
+      "width": 54
+    },
+    {
+      "id": "fixed:0x118a10",
+      "before": "공스",
+      "after": "RINGS",
+      "width": 85
+    },
+    {
+      "id": "fixed:0x118a2a",
+      "before": "하이클래스",
+      "after": "판크라스",
+      "width": 96
+    },
+    {
+      "id": "fixed:0x118a44",
+      "before": "배틀레이션",
+      "after": "격투탐정단 바트라츠",
+      "width": 228
+    },
+    {
+      "id": "fixed:0x118aac",
+      "before": "VJP",
+      "after": "신일본",
+      "width": 72
+    },
+    {
+      "id": "fixed:0x118aba",
+      "before": "OJP",
+      "after": "전일본",
+      "width": 72
+    },
+    {
+      "id": "fixed:0x118ac8",
+      "before": "NOVA",
+      "after": "NOAH",
+      "width": 80
+    },
+    {
+      "id": "fixed:0x118ad6",
+      "before": "신생 IW",
+      "after": "FMW",
+      "width": 64
+    },
+    {
+      "id": "fixed:0x118ae4",
+      "before": "유키프로",
+      "after": "미치노쿠",
+      "width": 96
+    },
+    {
+      "id": "fixed:0x118af2",
+      "before": "초룡관",
+      "after": "투용문",
+      "width": 72
+    },
+    {
+      "id": "fixed:0x118b00",
+      "before": "ZIP",
+      "after": "대일본",
+      "width": 72
+    },
+    {
+      "id": "fixed:0x118b0e",
+      "before": "간사이",
+      "after": "오사카",
+      "width": 72
+    },
+    {
+      "id": "fixed:0x118b2a",
+      "before": "WFW",
+      "after": "WWF",
+      "width": 65
+    },
+    {
+      "id": "fixed:0x118b38",
+      "before": "WWC",
+      "after": "WCW",
+      "width": 66
+    },
+    {
+      "id": "fixed:0x118b46",
+      "before": "T-A",
+      "after": "AAA",
+      "width": 54
+    },
+    {
+      "id": "fixed:0x118b54",
+      "before": "공스",
+      "after": "RINGS",
+      "width": 85
+    },
+    {
+      "id": "fixed:0x118b62",
+      "before": "하이클래스",
+      "after": "판크라스",
+      "width": 96
+    },
+    {
+      "id": "fixed:0x118b70",
+      "before": "배틀",
+      "after": "바트라츠",
+      "width": 96
+    },
+    {
+      "id": "roster:168:nick",
+      "before": "공스의 혜성",
+      "after": "RINGS의 혜성",
+      "width": 169
+    },
+    {
+      "id": "roster:174:nick",
+      "before": "하이클래스의 신성",
+      "after": "판크라스의 신성",
+      "width": 180
+    },
+    {
+      "id": "roster:196:nick",
+      "before": "S1의 제왕",
+      "after": "K-1의 제왕",
+      "width": 131
+    },
+    {
+      "id": "moves:490",
+      "before": "유키구니 드라이버 2",
+      "after": "미치노쿠 드라이버 2",
+      "width": 233
+    },
+    {
+      "id": "moves:618",
+      "before": "유키구니 드라이버 베타",
+      "after": "미치노쿠 드라이버 베타",
+      "width": 264
+    },
+    {
+      "id": "dlcroster:SPIKE1_4:5:name1",
+      "before": "히노",
+      "after": "우노",
+      "width": 48
+    },
+    {
+      "id": "dlcroster:SPIKE1_4:5:name2",
+      "before": "마사루",
+      "after": "카오루",
+      "width": 72
+    },
+    {
+      "id": "dlcroster:SPIKE1_4:6:name1",
+      "before": "배드에지",
+      "after": "굿리지",
+      "width": 72
+    },
+    {
+      "id": "dlcroster:SPIKE1_4:6:name2",
+      "before": "굴리",
+      "after": "게리",
+      "width": 48
+    },
+    {
+      "id": "dlcroster:SPIKE2_4:0:name1",
+      "before": "야마지",
+      "after": "쇼지",
+      "width": 48
+    },
+    {
+      "id": "dlcroster:SPIKE2_4:1:name1",
+      "before": "올맨",
+      "after": "콜먼",
+      "width": 48
+    },
+    {
+      "id": "dlcroster:SPIKE2_4:1:name2",
+      "before": "마이크",
+      "after": "마크",
+      "width": 48
+    },
+    {
+      "id": "dlcroster:SPIKE2_4:5:name1",
+      "before": "오프라인",
+      "after": "오브레임",
+      "width": 96
+    },
+    {
+      "id": "dlcroster:SPIKE2_4:5:name2",
+      "before": "발렌티노",
+      "after": "발렌타인",
+      "width": 96
+    },
+    {
+      "id": "dlcroster:SPIKE2_4:6:name2",
+      "before": "감마레이 다",
+      "after": "반델라이",
+      "width": 96
+    },
+    {
+      "id": "dlcroster:SPIKE2_4:7:name1",
+      "before": "쿠버",
+      "after": "커투어",
+      "width": 72
+    },
+    {
+      "id": "dlcroster:SPIKE2_4:7:name2",
+      "before": "앤디",
+      "after": "랜디",
+      "width": 48
+    },
+    {
+      "id": "dlcroster:SPIKE7:4:finisher",
+      "before": "유키구니 드라이버 2",
+      "after": "미치노쿠 드라이버 2",
+      "width": 233
+    }
+  ]
+}

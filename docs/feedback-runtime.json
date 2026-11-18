@@ -1,0 +1,145 @@
+{
+  "passed": true,
+  "gdi": "FireProD-KR-dev.gdi",
+  "controller_events_only": true,
+  "memory_writes": false,
+  "promotion_headers": [
+    {
+      "id": 0,
+      "text": "신일본 프로레슬링",
+      "capture": "v32-promotion-00"
+    },
+    {
+      "id": 1,
+      "text": "전일본 프로레슬링",
+      "capture": "v32-promotion-01"
+    },
+    {
+      "id": 2,
+      "text": "NOAH",
+      "capture": "v32-promotion-02"
+    },
+    {
+      "id": 3,
+      "text": "FMW",
+      "capture": "v32-promotion-03"
+    },
+    {
+      "id": 4,
+      "text": "미치노쿠 프로레스",
+      "capture": "v32-promotion-04"
+    },
+    {
+      "id": 5,
+      "text": "투용문",
+      "capture": "v32-promotion-05"
+    },
+    {
+      "id": 6,
+      "text": "대일본 프로레스",
+      "capture": "v32-promotion-06"
+    },
+    {
+      "id": 7,
+      "text": "오사카 프로레스",
+      "capture": "v32-promotion-07"
+    },
+    {
+      "id": 8,
+      "text": "FREE",
+      "capture": "v32-promotion-08"
+    },
+    {
+      "id": 9,
+      "text": "WWF",
+      "capture": "v32-promotion-09"
+    },
+    {
+      "id": 10,
+      "text": "WCW",
+      "capture": "v32-promotion-10"
+    },
+    {
+      "id": 11,
+      "text": "AAA",
+      "capture": "v32-promotion-11"
+    },
+    {
+      "id": 12,
+      "text": "RINGS",
+      "capture": "v32-promotion-12"
+    },
+    {
+      "id": 13,
+      "text": "판크라스",
+      "capture": "v32-promotion-13"
+    },
+    {
+      "id": 14,
+      "text": "격투탐정단 바트라츠",
+      "capture": "v32-promotion-14"
+    },
+    {
+      "id": 15,
+      "text": "격투가",
+      "capture": "v32-promotion-15"
+    },
+    {
+      "id": 16,
+      "text": "여자",
+      "capture": "v32-promotion-16"
+    },
+    {
+      "id": 17,
+      "text": "LEGEND",
+      "capture": "v32-promotion-17"
+    }
+  ],
+  "corrected_dlc_profiles": [
+    {
+      "id": "SPIKE2_4:5",
+      "english": "Valentijn Overeem",
+      "display": "발렌타인 오브레임",
+      "capture": "v32-name-SPIKE2_4-5"
+    },
+    {
+      "id": "SPIKE2_4:7",
+      "english": "Randy Couture",
+      "display": "랜디 커투어",
+      "capture": "v32-name-SPIKE2_4-7"
+    },
+    {
+      "id": "SPIKE1_4:5",
+      "english": "Kaoru Uno",
+      "display": "우노 카오루",
+      "capture": "v32-name-SPIKE1_4-5"
+    },
+    {
+      "id": "SPIKE1_4:6",
+      "english": "Gary Goodridge",
+      "display": "게리 굿리지",
+      "capture": "v32-name-SPIKE1_4-6"
+    },
+    {
+      "id": "SPIKE2_4:0",
+      "english": "Akira Shoji",
+      "display": "쇼지 아키라",
+      "capture": "v32-name-SPIKE2_4-0"
+    },
+    {
+      "id": "SPIKE2_4:1",
+      "english": "Mark Coleman",
+      "display": "마크 콜먼",
+      "capture": "v32-name-SPIKE2_4-1"
+    },
+    {
+      "id": "SPIKE2_4:6",
+      "english": "Wanderlei Silva",
+      "display": "반델라이 실바",
+      "capture": "v32-name-SPIKE2_4-6"
+    }
+  ],
+  "k1_profile_nickname_verified": true,
+  "visible_overlap_or_clipping": 0,
+  "physical_console_tested": false
+}

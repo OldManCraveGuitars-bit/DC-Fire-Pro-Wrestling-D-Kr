@@ -1,0 +1,65 @@
+{
+  "passed": true,
+  "gdi": "FireProD-KR-dev.gdi",
+  "previous": "FireProD-KR-dev.gdi",
+  "changed_game_files": [
+    "1ST_READ.BIN",
+    "SBL.BIN"
+  ],
+  "changed_sbl_entries": [
+    1,
+    2,
+    254,
+    255,
+    370
+  ],
+  "catalog_text_changes": 77,
+  "base_records": [
+    {
+      "entry": 1,
+      "nickname_records_changed": [
+        168,
+        174,
+        196
+      ],
+      "all_nontext_record_bytes_identical": true
+    },
+    {
+      "entry": 2,
+      "nickname_records_changed": [
+        168,
+        174,
+        196
+      ],
+      "all_nontext_record_bytes_identical": true
+    }
+  ],
+  "dlc_name_records_changed": 7,
+  "dlc_finisher_name_records_changed": 1,
+  "all_dlc_nontext_motion_appearance_ability_bytes_identical": true,
+  "all_dlc_move_records_identical": true,
+  "main_native_text_input_heap_cache_code_identical": true,
+  "all_game_image_animation_entries_identical": true,
+  "fonts": [
+    {
+      "entry": 254,
+      "added_glyph_indices": [
+        7165
+      ],
+      "existing_glyphs_and_components_identical": true
+    },
+    {
+      "entry": 255,
+      "added_glyph_indices": [
+        7165
+      ],
+      "existing_glyphs_and_components_identical": true
+    }
+  ],
+  "added_hangul_characters": [
+    "굿"
+  ],
+  "original_50_track_geometry_and_47_audio_preserved": true,
+  "ip_bin_identical": true,
+  "physical_console_tested": false
+}
