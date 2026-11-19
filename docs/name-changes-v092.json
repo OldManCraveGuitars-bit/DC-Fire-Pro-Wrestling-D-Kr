@@ -1,0 +1,1446 @@
+{
+  "version": "0.92",
+  "reviewed_base_count": 196,
+  "changed_base_names": 69,
+  "new_real_name_records": 33,
+  "preferred_spelling_or_alias_changes": 36,
+  "expected_total_base_real_names": 220,
+  "changes": [
+    {
+      "id": 28,
+      "promotion": 0,
+      "group": "신일본 프로레슬링",
+      "before": "아키라",
+      "after": "AKIRA",
+      "english": "AKIRA",
+      "kind": "spelling_correction_queued",
+      "original": "ＡＳＵＫＡ",
+      "sources": [
+        "https://www.njpw.co.jp/36049"
+      ]
+    },
+    {
+      "id": 23,
+      "promotion": 0,
+      "group": "신일본 프로레슬링",
+      "before": "스콧 노턴",
+      "after": "스콧 노튼",
+      "english": "Scott Norton",
+      "kind": "spelling_correction_queued",
+      "original": "フラッシュ・バートン",
+      "sources": []
+    },
+    {
+      "id": 24,
+      "promotion": 0,
+      "group": "신일본 프로레슬링",
+      "before": "슈퍼 J",
+      "after": "Super J",
+      "english": "Super J",
+      "kind": "spelling_correction_queued",
+      "original": "ハイパーＫ",
+      "sources": []
+    },
+    {
+      "id": 12,
+      "promotion": 0,
+      "group": "신일본 프로레슬링",
+      "before": "쥬신 선더 라이거",
+      "after": "쥬신 썬더라이거",
+      "english": "Jushin Thunder Liger",
+      "kind": "spelling_correction_queued",
+      "original": "超帝スーパーカイザー",
+      "sources": []
+    },
+    {
+      "id": 65,
+      "promotion": 1,
+      "group": "전일본 프로레슬링",
+      "before": "도리 펑크 주니어",
+      "after": "도리 펑크 Jr",
+      "english": "Dory Funk Jr.",
+      "kind": "preferred_spelling_queued",
+      "original": "ハリー・テキサンＪｒ．",
+      "sources": [
+        "https://dory-funk.com/"
+      ]
+    },
+    {
+      "id": 50,
+      "promotion": 1,
+      "group": "전일본 프로레슬링",
+      "before": "스탠 핸슨",
+      "after": "스턴 한센",
+      "english": "Stan Hansen",
+      "kind": "preferred_spelling_queued",
+      "original": "スター・バイソン",
+      "sources": [
+        "https://www.all-japan.co.jp/champ/heavyweight/"
+      ]
+    },
+    {
+      "id": 51,
+      "promotion": 2,
+      "group": "NOAH",
+      "before": "베이더",
+      "after": "빅 반 베이더",
+      "english": "Big Van Vader",
+      "kind": "preferred_spelling_queued",
+      "original": "スター・セイバー",
+      "sources": [
+        "https://www.wwe.com/classics/wherearetheynow/where-are-they-now-vader"
+      ]
+    },
+    {
+      "id": 69,
+      "promotion": 3,
+      "group": "FMW",
+      "before": "하야부사",
+      "after": "HAYABUSA",
+      "english": "HAYABUSA",
+      "kind": "preferred_spelling_queued",
+      "original": "ランマル",
+      "sources": []
+    },
+    {
+      "id": 72,
+      "promotion": 3,
+      "group": "FMW",
+      "before": "미스터 간노스케",
+      "after": "Mr 간노스케",
+      "english": "Mister Gannosuke",
+      "kind": "preferred_spelling_queued",
+      "original": "Ｍｒ．芦屋",
+      "sources": []
+    },
+    {
+      "id": 75,
+      "promotion": 3,
+      "group": "FMW",
+      "before": "자도",
+      "after": "쟈도",
+      "english": "Jado",
+      "kind": "preferred_spelling_queued",
+      "original": "魔童",
+      "sources": []
+    },
+    {
+      "id": 216,
+      "promotion": 3,
+      "group": "FMW",
+      "before": "고에몬",
+      "after": "GOEMON",
+      "english": "GOEMON",
+      "kind": "preferred_spelling_queued",
+      "original": "ＨＡＮＺＯ",
+      "sources": []
+    },
+    {
+      "id": 81,
+      "promotion": 4,
+      "group": "미치노쿠 프로레스",
+      "before": "그란 하마다",
+      "after": "구란 하마다",
+      "english": "Gran Hamada",
+      "kind": "preferred_spelling_queued",
+      "original": "グラン・マリポーサ",
+      "sources": []
+    },
+    {
+      "id": 80,
+      "promotion": 4,
+      "group": "미치노쿠 프로레스",
+      "before": "그레이트 사스케",
+      "after": "더 그레이트 사스케",
+      "english": "The Great Sasuke",
+      "kind": "preferred_spelling_queued",
+      "original": "ブレード・ハヤテ",
+      "sources": []
+    },
+    {
+      "id": 82,
+      "promotion": 4,
+      "group": "미치노쿠 프로레스",
+      "before": "타이거 마스크 IV",
+      "after": "타이거 마스크 4세",
+      "english": "Tiger Mask IV",
+      "kind": "preferred_spelling_queued",
+      "original": "マスク・ド・パンサーＩＶ",
+      "sources": [
+        "https://www.njpw.co.jp/profile/691",
+        "https://www.njpw.co.jp/654299/"
+      ]
+    },
+    {
+      "id": 85,
+      "promotion": 4,
+      "group": "미치노쿠 프로레스",
+      "before": "커리맨",
+      "after": "카레 맨",
+      "english": "Curry Man",
+      "kind": "preferred_spelling_queued",
+      "original": "カリー・マスク",
+      "sources": []
+    },
+    {
+      "id": 87,
+      "promotion": 5,
+      "group": "투용문",
+      "before": "시마",
+      "after": "CIMA",
+      "english": "CIMA",
+      "kind": "preferred_spelling_queued",
+      "original": "ＺＹＭＡ",
+      "sources": []
+    },
+    {
+      "id": 86,
+      "promotion": 5,
+      "group": "투용문",
+      "before": "매그넘 도쿄",
+      "after": "매그넘 TOKYO",
+      "english": "Magnum TOKYO",
+      "kind": "preferred_spelling_queued",
+      "original": "ワルサーＫＹＯＴＯ",
+      "sources": []
+    },
+    {
+      "id": 89,
+      "promotion": 5,
+      "group": "투용문",
+      "before": "스와",
+      "after": "SUWA",
+      "english": "SUWA",
+      "kind": "preferred_spelling_queued",
+      "original": "ＫＵＧＡ",
+      "sources": []
+    },
+    {
+      "id": 90,
+      "promotion": 5,
+      "group": "투용문",
+      "before": "스모 댄디 후지2000",
+      "after": "스모 후지 2000",
+      "english": "Sumo Dandy Fuji 2000 (Don Fujii)",
+      "kind": "preferred_spelling_queued",
+      "original": "菅生・ダンディ・Ｆ２０００",
+      "sources": [
+        "https://www.gaora.co.jp/dragongate/data/prfl/fujii.html"
+      ]
+    },
+    {
+      "id": 92,
+      "promotion": 6,
+      "group": "대일본 프로레스",
+      "before": "섀도 WX",
+      "after": "쉐도우 WX",
+      "english": "Shadow WX",
+      "kind": "preferred_spelling_queued",
+      "original": "ダークネスＸＸＸ",
+      "sources": []
+    },
+    {
+      "id": 95,
+      "promotion": 6,
+      "group": "대일본 프로레스",
+      "before": "멘즈 테이오",
+      "after": "테리 보이",
+      "english": "Terry Boy",
+      "kind": "preferred_spelling_queued",
+      "original": "ケリー・ボーイ",
+      "sources": [
+        "https://www.thesmackdownhotel.com/wrestlers/men-s-teioh-terry-boy",
+        "third_party/fpwd_english/translation/text/wrestlers.csv"
+      ]
+    },
+    {
+      "id": 97,
+      "promotion": 7,
+      "group": "오사카 프로레스",
+      "before": "슈퍼 델핀",
+      "after": "스펠 델핀",
+      "english": "Super Delfin",
+      "kind": "preferred_spelling_queued",
+      "original": "Ｓ・ドルフィン",
+      "sources": [
+        "https://www.excite.co.jp/news/dictionary/person/PE6c3c1419504c57e6d77a42187d2a78fef7acc4bb/"
+      ]
+    },
+    {
+      "id": 118,
+      "promotion": 8,
+      "group": "FREE",
+      "before": "그레이트 가부키",
+      "after": "더 그레이트 카부키",
+      "english": "The Great Kabuki",
+      "kind": "preferred_spelling_queued",
+      "original": "ザ・ミステリアス・カグラ",
+      "sources": []
+    },
+    {
+      "id": 105,
+      "promotion": 8,
+      "group": "FREE",
+      "before": "미스터 포고",
+      "after": "Mr 포고",
+      "english": "Mister Pogo",
+      "kind": "preferred_spelling_queued",
+      "original": "マスター・トーゴー",
+      "sources": []
+    },
+    {
+      "id": 107,
+      "promotion": 8,
+      "group": "FREE",
+      "before": "사노 나오키",
+      "after": "사노 타쿠마",
+      "english": "Takuma Sano",
+      "kind": "preferred_spelling_queued",
+      "original": "矢野 尚樹",
+      "sources": [
+        "https://number.bunshun.jp/articles/-/841770?page=4",
+        "https://thetv.jp/person/1000001735/"
+      ]
+    },
+    {
+      "id": 115,
+      "promotion": 8,
+      "group": "FREE",
+      "before": "타이거 지트 싱",
+      "after": "타이거 제트 싱",
+      "english": "Tiger Jeet Singh",
+      "kind": "preferred_spelling_queued",
+      "original": "マッド・タイガー",
+      "sources": []
+    },
+    {
+      "id": 116,
+      "promotion": 8,
+      "group": "FREE",
+      "before": "사부",
+      "after": "Sabu",
+      "english": "Sabu",
+      "kind": "preferred_spelling_queued",
+      "original": "タトゥー",
+      "sources": []
+    },
+    {
+      "id": 117,
+      "promotion": 8,
+      "group": "FREE",
+      "before": "롭 밴 댐",
+      "after": "롭 반담",
+      "english": "Rob Van Dam",
+      "kind": "preferred_spelling_queued",
+      "original": "ログ・ランダム",
+      "sources": []
+    },
+    {
+      "id": 83,
+      "promotion": 8,
+      "group": "FREE",
+      "before": "그란 나니와",
+      "after": "구란 나니와",
+      "english": "Gran Naniwa",
+      "kind": "preferred_spelling_queued",
+      "original": "怒乱・音羽",
+      "sources": []
+    },
+    {
+      "id": 153,
+      "promotion": 10,
+      "group": "WCW",
+      "before": "릭 스타이너",
+      "after": "릭 슈타이너",
+      "english": "Rick Steiner",
+      "kind": "preferred_spelling_queued",
+      "original": "ビッグ・シュタイナー",
+      "sources": []
+    },
+    {
+      "id": 154,
+      "promotion": 10,
+      "group": "WCW",
+      "before": "스콧 스타이너",
+      "after": "스콧 슈타이너",
+      "english": "Scott Steiner",
+      "kind": "preferred_spelling_queued",
+      "original": "スモール・シュタイナー",
+      "sources": []
+    },
+    {
+      "id": 146,
+      "promotion": 10,
+      "group": "WCW",
+      "before": "랜디 새비지",
+      "after": "마초 맨",
+      "english": "Macho Man Randy Savage",
+      "kind": "preferred_spelling_queued",
+      "original": "マッチョ・サーベル",
+      "sources": [
+        "https://www.wwe.com/superstars/randysavage"
+      ]
+    },
+    {
+      "id": 148,
+      "promotion": 10,
+      "group": "WCW",
+      "before": "케빈 내시",
+      "after": "케빈 내쉬",
+      "english": "Kevin Nash",
+      "kind": "preferred_spelling_queued",
+      "original": "レビン・ガッシュ",
+      "sources": []
+    },
+    {
+      "id": 152,
+      "promotion": 10,
+      "group": "WCW",
+      "before": "그레이트 무타",
+      "after": "더 그레이트 무타",
+      "english": "The Great Muta",
+      "kind": "preferred_spelling_queued",
+      "original": "ザ・グレイテスト・武道",
+      "sources": [
+        "https://muto-office.co.jp/talent/",
+        "https://www.noah.co.jp/muto_final_eng/"
+      ]
+    },
+    {
+      "id": 156,
+      "promotion": 10,
+      "group": "WCW",
+      "before": "제프 제럿",
+      "after": "제프 자렛",
+      "english": "Jeff Jarrett",
+      "kind": "preferred_spelling_queued",
+      "original": "ビル・バレット",
+      "sources": []
+    },
+    {
+      "id": 163,
+      "promotion": 11,
+      "group": "AAA",
+      "before": "닥터 와그너Jr.",
+      "after": "Dr 와그너 Jr",
+      "english": "Dr. Wagner Jr.",
+      "kind": "preferred_spelling_queued",
+      "original": "ＤシルバーＪｒ．",
+      "sources": []
+    },
+    {
+      "id": 172,
+      "promotion": 12,
+      "group": "RINGS",
+      "before": "사에바 아키라",
+      "after": "마에다 아키라",
+      "english": "Akira Maeda",
+      "kind": "real_name_correction_queued",
+      "original": "冴刃 明",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://www.speakers.jp/speaker/maeda-akira/"
+      ]
+    },
+    {
+      "id": 166,
+      "promotion": 12,
+      "group": "RINGS",
+      "before": "미네무라 타카시",
+      "after": "타무라 키요시",
+      "english": "Kiyoshi Tamura",
+      "kind": "real_name_correction_queued",
+      "original": "峰村 崇",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://jp.rizinff.com/_ct/16981342"
+      ]
+    },
+    {
+      "id": 168,
+      "promotion": 12,
+      "group": "RINGS",
+      "before": "카와모토 노부히로",
+      "after": "야마모토 요시히사",
+      "english": "Yoshihisa Yamamoto",
+      "kind": "real_name_correction_queued",
+      "original": "河本 信宏",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://www.sherdog.com/fighter/Yoshihisa-Yamamoto-454"
+      ]
+    },
+    {
+      "id": 167,
+      "promotion": 12,
+      "group": "RINGS",
+      "before": "호사카 타이시",
+      "after": "코사카 츠요시",
+      "english": "Tsuyoshi Kosaka",
+      "kind": "real_name_correction_queued",
+      "original": "宝坂 大志",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://jp.ufc.com/athlete/tsuyoshi-kosaka"
+      ]
+    },
+    {
+      "id": 169,
+      "promotion": 12,
+      "group": "RINGS",
+      "before": "리카르도 가브리엘",
+      "after": "비타제 타리엘",
+      "english": "Tariel Bitsadze",
+      "kind": "real_name_correction_queued",
+      "original": "リカード・ガブリエル",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://www.sherdog.com/fighter/Tariel-Bitsadze-1448"
+      ]
+    },
+    {
+      "id": 170,
+      "promotion": 12,
+      "group": "RINGS",
+      "before": "울프 번",
+      "after": "볼크 한",
+      "english": "Volk Han",
+      "kind": "real_name_correction_queued",
+      "original": "ウォルフ・バーン",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://middle-edge-neo.jp/articles/1414"
+      ]
+    },
+    {
+      "id": 171,
+      "promotion": 12,
+      "group": "RINGS",
+      "before": "랜스 하이먼",
+      "after": "한스 나이만",
+      "english": "Hans Nijman",
+      "kind": "real_name_correction_queued",
+      "original": "ランス・ハイマン",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://rings.nl/rings-holland/"
+      ]
+    },
+    {
+      "id": 173,
+      "promotion": 13,
+      "group": "판크라스",
+      "before": "히가키 마코토",
+      "after": "후나키 마사카츠",
+      "english": "Masakatsu Funaki",
+      "kind": "real_name_correction_queued",
+      "original": "桧垣 誠",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://thetv.jp/person/0000111656/",
+        "https://www.wrestle-universe.com/ja/wrestlers/nD3mye4SQtzBaZxh66WcZd"
+      ]
+    },
+    {
+      "id": 174,
+      "promotion": 13,
+      "group": "판크라스",
+      "before": "센도 유키",
+      "after": "곤도 유키",
+      "english": "Yuki Kondo",
+      "kind": "real_name_correction_queued",
+      "original": "千堂 勇気",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://www.pancrase.co.jp/data/prfl/kondo.html"
+      ]
+    },
+    {
+      "id": 175,
+      "promotion": 13,
+      "group": "판크라스",
+      "before": "타카이시 토시키",
+      "after": "타카하시 요시키",
+      "english": "Yoshiki Takahashi",
+      "kind": "real_name_correction_queued",
+      "original": "高石 俊樹",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://www.pancrase.co.jp/data/prfl/takahashi.html"
+      ]
+    },
+    {
+      "id": 176,
+      "promotion": 13,
+      "group": "판크라스",
+      "before": "뵘 슈투름",
+      "after": "세미 쉴트",
+      "english": "Semmy Schilt",
+      "kind": "real_name_correction_queued",
+      "original": "ベーム・シュトゥルム",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://www.semmyschilt.com/en/about-us/team/semmy-schilt"
+      ]
+    },
+    {
+      "id": 178,
+      "promotion": 14,
+      "group": "격투탐정단 바트라츠",
+      "before": "헤라클레스 오즈키",
+      "after": "알렉산더 오츠카",
+      "english": "Alexander Otsuka",
+      "kind": "real_name_correction_queued",
+      "original": "ヘラクレス 大月",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://eshop03.stablo.jp/article/a428299810.html",
+        "https://jimbutsu.jitenon.jp/jimbutsu/p17173.php"
+      ]
+    },
+    {
+      "id": 177,
+      "promotion": 14,
+      "group": "격투탐정단 바트라츠",
+      "before": "이시하라 후유나리",
+      "after": "이시카와 유키",
+      "english": "Yuki Ishikawa",
+      "kind": "real_name_correction_queued",
+      "original": "石原 冬威",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://www.kouenirai.com/profile/3310",
+        "https://omoidecom.jp/Resume/info?gid=1591"
+      ]
+    },
+    {
+      "id": 179,
+      "promotion": 14,
+      "group": "격투탐정단 바트라츠",
+      "before": "무함마드 토네",
+      "after": "무하마드 요네",
+      "english": "Muhammad Yone",
+      "kind": "real_name_correction_queued",
+      "original": "ムハンマド・トネ",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://www.noah.co.jp/profile/20/"
+      ]
+    },
+    {
+      "id": 181,
+      "promotion": 14,
+      "group": "격투탐정단 바트라츠",
+      "before": "미타카 류토",
+      "after": "히다카 이쿠토",
+      "english": "Ikuto Hidaka",
+      "kind": "real_name_correction_queued",
+      "original": "三鷹 竜斗",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://shawncapture.jp/hidaka/"
+      ]
+    },
+    {
+      "id": 183,
+      "promotion": 15,
+      "group": "격투가",
+      "before": "카시와다 카즈키",
+      "after": "사쿠라바 카즈시",
+      "english": "Kazushi Sakuraba",
+      "kind": "real_name_correction_queued",
+      "original": "柏田 一樹",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://www.noah.co.jp/lib/pdf/20210307.pdf",
+        "https://www.thesmackdownhotel.com/wrestlers/kazushi-sakuraba"
+      ]
+    },
+    {
+      "id": 182,
+      "promotion": 15,
+      "group": "격투가",
+      "before": "노가와 히로야",
+      "after": "오가와 나오야",
+      "english": "Naoya Ogawa",
+      "kind": "real_name_correction_queued",
+      "original": "野川 裕也",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://www.fujitv.co.jp/m/js/talk/profile/p_ogawa.html",
+        "https://kotobank.jp/word/%E5%B0%8F%E5%B7%9D%E7%9B%B4%E4%B9%9F-1062555"
+      ]
+    },
+    {
+      "id": 184,
+      "promotion": 15,
+      "group": "격투가",
+      "before": "카지타 마사유키",
+      "after": "후지타 카즈유키",
+      "english": "Kazuyuki Fujita",
+      "kind": "real_name_correction_queued",
+      "original": "梶田 政之",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://www.noah.co.jp/profile/74/"
+      ]
+    },
+    {
+      "id": 186,
+      "promotion": 15,
+      "group": "격투가",
+      "before": "사다케 마사유키",
+      "after": "사타케 마사아키",
+      "english": "Masaaki Satake",
+      "kind": "real_name_correction_queued",
+      "original": "佐岳 雅之",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://k-1.info/pride/free/fighters/details/1091655451.html",
+        "https://thetv.jp/person/0000010579/"
+      ]
+    },
+    {
+      "id": 187,
+      "promotion": 15,
+      "group": "격투가",
+      "before": "센넨 키노시타",
+      "after": "엔센 이노우에",
+      "english": "Enson Inoue",
+      "kind": "real_name_correction_queued",
+      "original": "センネン木下",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://www.ufc.com/athlete/enson-inoue",
+        "https://k-1.info/pride/free/fighters/details/1090721926.html"
+      ]
+    },
+    {
+      "id": 188,
+      "promotion": 15,
+      "group": "격투가",
+      "before": "카토 후미야",
+      "after": "사토 루미나",
+      "english": "Rumina Sato",
+      "kind": "real_name_correction_queued",
+      "original": "加藤 フミヤ",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://www.sony.jp/products/cyber_eyes/contents/vol001/profile.html",
+        "https://www.youtube.com/channel/UCVsWS3BZeQBVMgpDXo8S_IA"
+      ]
+    },
+    {
+      "id": 189,
+      "promotion": 15,
+      "group": "격투가",
+      "before": "이누가미 카즈요시",
+      "after": "무라카미 카즈나리",
+      "english": "Kazunari Murakami",
+      "kind": "real_name_correction_queued",
+      "original": "犬神 一義",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://a4produce.co.jp/murakami3.html"
+      ]
+    },
+    {
+      "id": 200,
+      "promotion": 15,
+      "group": "격투가",
+      "before": "네버랜드 로슈",
+      "after": "롤랑드 보크",
+      "english": "Roland Bock",
+      "kind": "real_name_correction_queued",
+      "original": "ネバーランド・ロッシュ",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://www.olympedia.org/athletes/58333"
+      ]
+    },
+    {
+      "id": 190,
+      "promotion": 15,
+      "group": "격투가",
+      "before": "헤라클레스 알레빈",
+      "after": "알렉산더 카렐린",
+      "english": "Aleksandr Karelin",
+      "kind": "real_name_correction_queued",
+      "original": "ヘラクレス・アレビン",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://www.olympedia.org/athletes/59868"
+      ]
+    },
+    {
+      "id": 193,
+      "promotion": 15,
+      "group": "격투가",
+      "before": "닉슨 스테이시",
+      "after": "힉슨 그레이시",
+      "english": "Rickson Gracie",
+      "kind": "real_name_correction_queued",
+      "original": "ニクソン・ステイシー",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://www2.shueisha.co.jp/m_playboy/member/interview/rickson.html",
+        "https://k-1.info/pride/free/fighters/details/1091518534.html"
+      ]
+    },
+    {
+      "id": 194,
+      "promotion": 15,
+      "group": "격투가",
+      "before": "보이스 스테이시",
+      "after": "호이스 그레이시",
+      "english": "Royce Gracie",
+      "kind": "real_name_correction_queued",
+      "original": "ヴォイス・ステイシー",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://www.bjjheroes.com/bjj-fighters/royce-gracie"
+      ]
+    },
+    {
+      "id": 191,
+      "promotion": 15,
+      "group": "격투가",
+      "before": "루갈 로브한킨",
+      "after": "이고르 보브찬친",
+      "english": "Igor Vovchanchyn",
+      "kind": "real_name_correction_queued",
+      "original": "ルガール・ロブハンキン",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://www.boutreview.com/fightsspiral/IGOR_VOVCHANCHYN.html"
+      ]
+    },
+    {
+      "id": 192,
+      "promotion": 15,
+      "group": "격투가",
+      "before": "마이크 베어",
+      "after": "마크 커",
+      "english": "Mark Kerr",
+      "kind": "real_name_correction_queued",
+      "original": "マイク・ベアー",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://us.ufcespanol.com/news/mark-kerr-named-ufc-hall-fame-class-2025",
+        "https://en.wikipedia.org/wiki/Mark_Kerr_%28fighter%29"
+      ]
+    },
+    {
+      "id": 125,
+      "promotion": 15,
+      "group": "격투가",
+      "before": "케인 하록",
+      "after": "켄 샴락",
+      "english": "Ken Shamrock",
+      "kind": "real_name_correction_queued",
+      "original": "ケイン・ハーロック",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://www.sherdog.com/news/articles/By-The-Numbers-Ken-Shamrock-188844"
+      ]
+    },
+    {
+      "id": 196,
+      "promotion": 15,
+      "group": "격투가",
+      "before": "치타 카를",
+      "after": "피터 아츠",
+      "english": "Peter Aerts",
+      "kind": "real_name_correction_queued",
+      "original": "チーター・カール",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://k-1.info/html/profile/ha_aerts.html",
+        "https://peteraerts.bitfan.id/contents/menu/41559"
+      ]
+    },
+    {
+      "id": 197,
+      "promotion": 15,
+      "group": "격투가",
+      "before": "호넷 고스트",
+      "after": "어네스토 호스트",
+      "english": "Ernesto Hoost",
+      "kind": "real_name_correction_queued",
+      "original": "ホーネット・ゴースト",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://k-1.info/html/profile_jp/view_a_hoost.html",
+        "https://www.neoseeker.com/fire-pro-g/faqs/44530-fire-prowrestling-g-char.html"
+      ]
+    },
+    {
+      "id": 198,
+      "promotion": 15,
+      "group": "격투가",
+      "before": "베이크 게르하르트",
+      "after": "마이크 베르나르도",
+      "english": "Mike Bernardo",
+      "kind": "real_name_correction_queued",
+      "original": "ベイク・ゲルハルト",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://k-1.info/html/profile_jp/view_ma_bernardo.html",
+        "https://www.thesmackdownhotel.com/games/fire-pro-wrestling-z"
+      ]
+    },
+    {
+      "id": 199,
+      "promotion": 15,
+      "group": "격투가",
+      "before": "안드레 파그",
+      "after": "앤디 훅",
+      "english": "Andy Hug",
+      "kind": "real_name_correction_queued",
+      "original": "アンドレ・ファグ",
+      "sources": [
+        "third_party/fpwd_english/translation/text/wrestlers.csv",
+        "https://boutreview.com/report/k1/00/08hug/profile.html"
+      ]
+    }
+  ],
+  "catalog_changes": [
+    {
+      "id": "roster:12:name1",
+      "before": "라이거",
+      "after": "썬더라이거"
+    },
+    {
+      "id": "roster:12:name2",
+      "before": "쥬신 선더",
+      "after": "쥬신"
+    },
+    {
+      "id": "roster:23:name1",
+      "before": "노턴",
+      "after": "노튼"
+    },
+    {
+      "id": "roster:24:name1",
+      "before": "슈퍼 J",
+      "after": "Super J"
+    },
+    {
+      "id": "roster:28:name1",
+      "before": "아키라",
+      "after": "AKIRA"
+    },
+    {
+      "id": "roster:50:name1",
+      "before": "핸슨",
+      "after": "한센"
+    },
+    {
+      "id": "roster:50:name2",
+      "before": "스탠",
+      "after": "스턴"
+    },
+    {
+      "id": "roster:51:name2",
+      "before": "",
+      "after": "빅 반"
+    },
+    {
+      "id": "roster:65:name2",
+      "before": "펑크 주니어",
+      "after": "펑크 Jr"
+    },
+    {
+      "id": "roster:69:name1",
+      "before": "하야부사",
+      "after": "HAYABUSA"
+    },
+    {
+      "id": "roster:72:name2",
+      "before": "미스터",
+      "after": "Mr"
+    },
+    {
+      "id": "roster:75:name1",
+      "before": "자도",
+      "after": "쟈도"
+    },
+    {
+      "id": "roster:80:name2",
+      "before": "그레이트",
+      "after": "더 그레이트"
+    },
+    {
+      "id": "roster:81:name2",
+      "before": "그란",
+      "after": "구란"
+    },
+    {
+      "id": "roster:82:name2",
+      "before": "마스크 IV",
+      "after": "마스크 4세"
+    },
+    {
+      "id": "roster:83:name2",
+      "before": "그란",
+      "after": "구란"
+    },
+    {
+      "id": "roster:85:name1",
+      "before": "커리맨",
+      "after": "카레 맨"
+    },
+    {
+      "id": "roster:86:name2",
+      "before": "도쿄",
+      "after": "TOKYO"
+    },
+    {
+      "id": "roster:87:name1",
+      "before": "시마",
+      "after": "CIMA"
+    },
+    {
+      "id": "roster:89:name1",
+      "before": "스와",
+      "after": "SUWA"
+    },
+    {
+      "id": "roster:90:name1",
+      "before": "후지2000",
+      "after": "스모 후지"
+    },
+    {
+      "id": "roster:90:name2",
+      "before": "스모 댄디",
+      "after": "2000"
+    },
+    {
+      "id": "roster:92:name1",
+      "before": "섀도 WX",
+      "after": "쉐도우 WX"
+    },
+    {
+      "id": "roster:95:name1",
+      "before": "멘즈",
+      "after": "보이"
+    },
+    {
+      "id": "roster:95:name2",
+      "before": "테이오",
+      "after": "테리"
+    },
+    {
+      "id": "roster:97:name2",
+      "before": "슈퍼",
+      "after": "스펠"
+    },
+    {
+      "id": "roster:105:name2",
+      "before": "미스터",
+      "after": "Mr"
+    },
+    {
+      "id": "roster:107:name2",
+      "before": "나오키",
+      "after": "타쿠마"
+    },
+    {
+      "id": "roster:115:name2",
+      "before": "타이거 지트",
+      "after": "타이거 제트"
+    },
+    {
+      "id": "roster:116:name1",
+      "before": "사부",
+      "after": "Sabu"
+    },
+    {
+      "id": "roster:117:name1",
+      "before": "밴 댐",
+      "after": "반담"
+    },
+    {
+      "id": "roster:118:name1",
+      "before": "가부키",
+      "after": "카부키"
+    },
+    {
+      "id": "roster:118:name2",
+      "before": "그레이트",
+      "after": "더 그레이트"
+    },
+    {
+      "id": "roster:125:name1",
+      "before": "하록",
+      "after": "샴락"
+    },
+    {
+      "id": "roster:125:name2",
+      "before": "케인",
+      "after": "켄"
+    },
+    {
+      "id": "roster:146:name1",
+      "before": "새비지",
+      "after": "마초 맨"
+    },
+    {
+      "id": "roster:146:name2",
+      "before": "랜디",
+      "after": ""
+    },
+    {
+      "id": "roster:148:name1",
+      "before": "내시",
+      "after": "내쉬"
+    },
+    {
+      "id": "roster:152:name2",
+      "before": "그레이트",
+      "after": "더 그레이트"
+    },
+    {
+      "id": "roster:153:name2",
+      "before": "스타이너",
+      "after": "슈타이너"
+    },
+    {
+      "id": "roster:154:name2",
+      "before": "스타이너",
+      "after": "슈타이너"
+    },
+    {
+      "id": "roster:156:name1",
+      "before": "제럿",
+      "after": "자렛"
+    },
+    {
+      "id": "roster:163:name1",
+      "before": "와그너Jr.",
+      "after": "와그너 Jr"
+    },
+    {
+      "id": "roster:163:name2",
+      "before": "닥터",
+      "after": "Dr"
+    },
+    {
+      "id": "roster:166:name1",
+      "before": "미네무라",
+      "after": "타무라"
+    },
+    {
+      "id": "roster:166:name2",
+      "before": "타카시",
+      "after": "키요시"
+    },
+    {
+      "id": "roster:167:name1",
+      "before": "호사카",
+      "after": "코사카"
+    },
+    {
+      "id": "roster:167:name2",
+      "before": "타이시",
+      "after": "츠요시"
+    },
+    {
+      "id": "roster:168:name1",
+      "before": "카와모토",
+      "after": "야마모토"
+    },
+    {
+      "id": "roster:168:name2",
+      "before": "노부히로",
+      "after": "요시히사"
+    },
+    {
+      "id": "roster:169:name1",
+      "before": "가브리엘",
+      "after": "비타제"
+    },
+    {
+      "id": "roster:169:name2",
+      "before": "리카르도",
+      "after": "타리엘"
+    },
+    {
+      "id": "roster:170:name1",
+      "before": "번",
+      "after": "한"
+    },
+    {
+      "id": "roster:170:name2",
+      "before": "울프",
+      "after": "볼크"
+    },
+    {
+      "id": "roster:171:name1",
+      "before": "하이먼",
+      "after": "나이만"
+    },
+    {
+      "id": "roster:171:name2",
+      "before": "랜스",
+      "after": "한스"
+    },
+    {
+      "id": "roster:172:name1",
+      "before": "사에바",
+      "after": "마에다"
+    },
+    {
+      "id": "roster:173:name1",
+      "before": "히가키",
+      "after": "후나키"
+    },
+    {
+      "id": "roster:173:name2",
+      "before": "마코토",
+      "after": "마사카츠"
+    },
+    {
+      "id": "roster:174:name1",
+      "before": "센도",
+      "after": "곤도"
+    },
+    {
+      "id": "roster:175:name1",
+      "before": "타카이시",
+      "after": "타카하시"
+    },
+    {
+      "id": "roster:175:name2",
+      "before": "토시키",
+      "after": "요시키"
+    },
+    {
+      "id": "roster:176:name1",
+      "before": "슈투름",
+      "after": "쉴트"
+    },
+    {
+      "id": "roster:176:name2",
+      "before": "뵘",
+      "after": "세미"
+    },
+    {
+      "id": "roster:177:name1",
+      "before": "이시하라",
+      "after": "이시카와"
+    },
+    {
+      "id": "roster:177:name2",
+      "before": "후유나리",
+      "after": "유키"
+    },
+    {
+      "id": "roster:178:name1",
+      "before": "오즈키",
+      "after": "오츠카"
+    },
+    {
+      "id": "roster:178:name2",
+      "before": "헤라클레스",
+      "after": "알렉산더"
+    },
+    {
+      "id": "roster:179:name1",
+      "before": "토네",
+      "after": "요네"
+    },
+    {
+      "id": "roster:179:name2",
+      "before": "무함마드",
+      "after": "무하마드"
+    },
+    {
+      "id": "roster:181:name1",
+      "before": "미타카",
+      "after": "히다카"
+    },
+    {
+      "id": "roster:181:name2",
+      "before": "류토",
+      "after": "이쿠토"
+    },
+    {
+      "id": "roster:182:name1",
+      "before": "노가와",
+      "after": "오가와"
+    },
+    {
+      "id": "roster:182:name2",
+      "before": "히로야",
+      "after": "나오야"
+    },
+    {
+      "id": "roster:183:name1",
+      "before": "카시와다",
+      "after": "사쿠라바"
+    },
+    {
+      "id": "roster:183:name2",
+      "before": "카즈키",
+      "after": "카즈시"
+    },
+    {
+      "id": "roster:184:name1",
+      "before": "카지타",
+      "after": "후지타"
+    },
+    {
+      "id": "roster:184:name2",
+      "before": "마사유키",
+      "after": "카즈유키"
+    },
+    {
+      "id": "roster:186:name1",
+      "before": "사다케",
+      "after": "사타케"
+    },
+    {
+      "id": "roster:186:name2",
+      "before": "마사유키",
+      "after": "마사아키"
+    },
+    {
+      "id": "roster:187:name1",
+      "before": "센넨",
+      "after": "이노우에"
+    },
+    {
+      "id": "roster:187:name2",
+      "before": "키노시타",
+      "after": "엔센"
+    },
+    {
+      "id": "roster:188:name1",
+      "before": "후미야",
+      "after": "사토"
+    },
+    {
+      "id": "roster:188:name2",
+      "before": "카토",
+      "after": "루미나"
+    },
+    {
+      "id": "roster:189:name1",
+      "before": "이누가미",
+      "after": "무라카미"
+    },
+    {
+      "id": "roster:189:name2",
+      "before": "카즈요시",
+      "after": "카즈나리"
+    },
+    {
+      "id": "roster:190:name1",
+      "before": "알레빈",
+      "after": "카렐린"
+    },
+    {
+      "id": "roster:190:name2",
+      "before": "헤라클레스",
+      "after": "알렉산더"
+    },
+    {
+      "id": "roster:191:name1",
+      "before": "로브한킨",
+      "after": "보브찬친"
+    },
+    {
+      "id": "roster:191:name2",
+      "before": "루갈",
+      "after": "이고르"
+    },
+    {
+      "id": "roster:192:name1",
+      "before": "베어",
+      "after": "커"
+    },
+    {
+      "id": "roster:192:name2",
+      "before": "마이크",
+      "after": "마크"
+    },
+    {
+      "id": "roster:193:name1",
+      "before": "닉슨",
+      "after": "그레이시"
+    },
+    {
+      "id": "roster:193:name2",
+      "before": "스테이시",
+      "after": "힉슨"
+    },
+    {
+      "id": "roster:194:name1",
+      "before": "보이스",
+      "after": "그레이시"
+    },
+    {
+      "id": "roster:194:name2",
+      "before": "스테이시",
+      "after": "호이스"
+    },
+    {
+      "id": "roster:196:name1",
+      "before": "카를",
+      "after": "아츠"
+    },
+    {
+      "id": "roster:196:name2",
+      "before": "치타",
+      "after": "피터"
+    },
+    {
+      "id": "roster:197:name1",
+      "before": "고스트",
+      "after": "호스트"
+    },
+    {
+      "id": "roster:197:name2",
+      "before": "호넷",
+      "after": "어네스토"
+    },
+    {
+      "id": "roster:198:name1",
+      "before": "게르하르트",
+      "after": "베르나르도"
+    },
+    {
+      "id": "roster:198:name2",
+      "before": "베이크",
+      "after": "마이크"
+    },
+    {
+      "id": "roster:199:name1",
+      "before": "파그",
+      "after": "훅"
+    },
+    {
+      "id": "roster:199:name2",
+      "before": "안드레",
+      "after": "앤디"
+    },
+    {
+      "id": "roster:200:name1",
+      "before": "로슈",
+      "after": "보크"
+    },
+    {
+      "id": "roster:200:name2",
+      "before": "네버랜드",
+      "after": "롤랑드"
+    },
+    {
+      "id": "roster:216:name1",
+      "before": "고에몬",
+      "after": "GOEMON"
+    }
+  ],
+  "profile_stats_moves_appearance_changes_requested": false,
+  "previous_release_untouched": true
+}

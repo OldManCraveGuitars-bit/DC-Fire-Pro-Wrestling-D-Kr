@@ -1,0 +1,178 @@
+{
+  "passed": true,
+  "gdi": "FireProD-KR-dev.gdi",
+  "mode": "input",
+  "measurements": [
+    {
+      "section": "한글",
+      "frames": 20,
+      "events": [
+        [
+          1,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          9,
+          3
+        ],
+        [
+          13,
+          4
+        ],
+        [
+          17,
+          5
+        ]
+      ],
+      "first_change_frame": 1,
+      "repeat_intervals": [
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "section": "가타카나",
+      "frames": 20,
+      "events": [
+        [
+          1,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          9,
+          3
+        ],
+        [
+          13,
+          4
+        ],
+        [
+          17,
+          5
+        ]
+      ],
+      "first_change_frame": 1,
+      "repeat_intervals": [
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "section": "히라가나",
+      "frames": 20,
+      "events": [
+        [
+          1,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          9,
+          3
+        ],
+        [
+          13,
+          4
+        ],
+        [
+          17,
+          5
+        ]
+      ],
+      "first_change_frame": 1,
+      "repeat_intervals": [
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "section": "영숫자",
+      "frames": 20,
+      "events": [
+        [
+          1,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          9,
+          3
+        ],
+        [
+          13,
+          4
+        ],
+        [
+          17,
+          5
+        ]
+      ],
+      "first_change_frame": 1,
+      "repeat_intervals": [
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "section": "기호",
+      "frames": 20,
+      "events": [
+        [
+          1,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          9,
+          3
+        ],
+        [
+          13,
+          4
+        ],
+        [
+          17,
+          5
+        ]
+      ],
+      "first_change_frame": 1,
+      "repeat_intervals": [
+        4,
+        4,
+        4,
+        4
+      ]
+    }
+  ],
+  "controller_events_only": true,
+  "method": "pre-input baseline and change events sampled once per VBlank",
+  "physical_console_tested": false,
+  "memory_writes": false,
+  "same_build_bookmark": true,
+  "tested_without_concurrent_retroarch": true
+}

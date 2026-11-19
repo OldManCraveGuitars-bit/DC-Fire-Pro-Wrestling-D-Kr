@@ -1,13 +1,16 @@
 {
-  "version": "0.91",
-  "native_names": 187,
+  "version": "0.92",
+  "native_names": 220,
   "extra_name_corrections": 43,
   "extra_wrestlers": 46,
   "official_moves": 57,
   "community_moves": 43,
   "source_sha256": "e111b7fcbeb8ad1089e4d37544dd3255b3d45cea7b959837ca1ecaf1b51b0379",
-  "reference_build": "602ff3cb26bc",
+  "reference_build": "824490f7fd32",
   "real_promotion_names": 14,
   "feedback_text_changes": 77,
-  "bios_boot_fix": true
+  "bios_boot_fix": true,
+  "reviewed_base_names": 196,
+  "base_names_changed": 69,
+  "new_real_names": 33
 }

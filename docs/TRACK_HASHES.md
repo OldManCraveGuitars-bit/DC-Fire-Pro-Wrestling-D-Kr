@@ -1,6 +1,6 @@
-# 적용 후 50트랙 SHA-256
+# v0.92 적용 후 50트랙 SHA-256
 
-| 트랙 | 파일 | 크기(bytes) | SHA-256 |
+| 트랙 | 파일 | 크기(bytes) | 적용 후 SHA-256 |
 |---|---|---|---|
 | 1 | original01.bin | 1996848 | e2a0dec915059659373ad9130458308796d3f6db321732315c26a6d1b3a250f2 |
 | 2 | original02.raw | 1735776 | 7417c595f21a573674de228cedd73cc636868ae77d14af6829d5b9eeada65010 |
@@ -51,4 +51,4 @@
 | 47 | original47.raw | 1980384 | 4858200ad691c8a86ea8765e773b10aaac21b96ef94b43baa3e032a338cb30fe |
 | 48 | original48.raw | 4614624 | 631ca07b9cbe285ece446030762ab27d68873262ddfaa2bbafa751c2b26f2856 |
 | 49 | original49.raw | 26123664 | 4e680440a4533017c8ac3b49d2be999bea4d0cf06b3543e50823b40585fc1f6d |
-| 50 | original50.bin | 111480096 | 83a4495fe639d26f7bb0b43877cd6f3ef6cf23f311f7c169a986528e256637ac |
+| 50 | original50.bin | 111480096 | 1fa975948879af74f7ab72074293ec8db44b83bb781b7a75060d3b0a171160a0 |

@@ -1,0 +1,37 @@
+{
+  "passed": true,
+  "version": "0.92",
+  "gdi": "FireProD-KR-dev.gdi",
+  "baseline": "FireProD-KR-dev.gdi",
+  "changed_game_files": [
+    "1ST_READ.BIN",
+    "SBL.BIN"
+  ],
+  "changed_sbl_entries": [
+    1,
+    2,
+    254,
+    255
+  ],
+  "base_names_changed": 69,
+  "all_220_nicknames_profiles_stats_moves_cpu_appearance_bytes_unchanged": true,
+  "dlc_bank_and_all_downloaded_content_byte_identical": true,
+  "all_images_animation_entries_identical": true,
+  "existing_font_glyphs_identical": true,
+  "added_hangul_characters": [
+    "렐",
+    "샴",
+    "쉐",
+    "쉴",
+    "썬",
+    "쟈",
+    "찬",
+    "힉"
+  ],
+  "native_c_change_limited_to_name_pane_layout_and_cache_capacity": true,
+  "original_engine_outside_existing_hooks_identical": true,
+  "ip_bin_identical": true,
+  "track_geometry_and_47_audio_tracks_preserved": true,
+  "bios_boot_layout_preserved": true,
+  "physical_console_tested": false
+}

@@ -113,7 +113,7 @@
       "promotion": 0,
       "group": "신일본 프로레슬링",
       "original": "カイザー / 超帝スーパー",
-      "display": "쥬신 선더 라이거",
+      "display": "쥬신 썬더라이거",
       "english": "Jushin Thunder Liger",
       "renamed": true
     },
@@ -212,7 +212,7 @@
       "promotion": 0,
       "group": "신일본 프로레슬링",
       "original": "バートン / フラッシュ",
-      "display": "스콧 노턴",
+      "display": "스콧 노튼",
       "english": "Scott Norton",
       "renamed": true
     },
@@ -221,7 +221,7 @@
       "promotion": 0,
       "group": "신일본 프로레슬링",
       "original": "ハイパーＫ",
-      "display": "슈퍼 J",
+      "display": "Super J",
       "english": "Super J",
       "renamed": true
     },
@@ -257,7 +257,7 @@
       "promotion": 0,
       "group": "신일본 프로레슬링",
       "original": "ＡＳＵＫＡ",
-      "display": "아키라",
+      "display": "AKIRA",
       "english": "AKIRA",
       "renamed": true
     },
@@ -455,7 +455,7 @@
       "promotion": 1,
       "group": "전일본 프로레슬링",
       "original": "バイソン / スター",
-      "display": "스탠 핸슨",
+      "display": "스턴 한센",
       "english": "Stan Hansen",
       "renamed": true
     },
@@ -464,8 +464,8 @@
       "promotion": 2,
       "group": "NOAH",
       "original": "セイバー / スター",
-      "display": "베이더",
-      "english": "Vader",
+      "display": "빅 반 베이더",
+      "english": "Big Van Vader",
       "renamed": true
     },
     {
@@ -590,7 +590,7 @@
       "promotion": 1,
       "group": "전일본 프로레슬링",
       "original": "ハリー / テキサンＪｒ．",
-      "display": "도리 펑크 주니어",
+      "display": "도리 펑크 Jr",
       "english": "Dory Funk Jr.",
       "renamed": true
     },
@@ -626,8 +626,8 @@
       "promotion": 3,
       "group": "FMW",
       "original": "ランマル",
-      "display": "하야부사",
-      "english": "Hayabusa",
+      "display": "HAYABUSA",
+      "english": "HAYABUSA",
       "renamed": true
     },
     {
@@ -653,7 +653,7 @@
       "promotion": 3,
       "group": "FMW",
       "original": "芦屋 / Ｍｒ．",
-      "display": "미스터 간노스케",
+      "display": "Mr 간노스케",
       "english": "Mister Gannosuke",
       "renamed": true
     },
@@ -680,7 +680,7 @@
       "promotion": 3,
       "group": "FMW",
       "original": "魔童",
-      "display": "자도",
+      "display": "쟈도",
       "english": "Jado",
       "renamed": true
     },
@@ -725,7 +725,7 @@
       "promotion": 4,
       "group": "미치노쿠 프로레스",
       "original": "ハヤテ / ブレード",
-      "display": "그레이트 사스케",
+      "display": "더 그레이트 사스케",
       "english": "The Great Sasuke",
       "renamed": true
     },
@@ -734,7 +734,7 @@
       "promotion": 4,
       "group": "미치노쿠 프로레스",
       "original": "マリポーサ / グラン",
-      "display": "그란 하마다",
+      "display": "구란 하마다",
       "english": "Gran Hamada",
       "renamed": true
     },
@@ -743,7 +743,7 @@
       "promotion": 4,
       "group": "미치노쿠 프로레스",
       "original": "パンサーＩＶ / マスク・ド",
-      "display": "타이거 마스크 IV",
+      "display": "타이거 마스크 4세",
       "english": "Tiger Mask IV",
       "renamed": true
     },
@@ -752,7 +752,7 @@
       "promotion": 8,
       "group": "FREE",
       "original": "音羽 / 怒乱",
-      "display": "그란 나니와",
+      "display": "구란 나니와",
       "english": "Gran Naniwa",
       "renamed": true
     },
@@ -770,7 +770,7 @@
       "promotion": 4,
       "group": "미치노쿠 프로레스",
       "original": "カリー / マスク",
-      "display": "커리맨",
+      "display": "카레 맨",
       "english": "Curry Man",
       "renamed": true
     },
@@ -779,7 +779,7 @@
       "promotion": 5,
       "group": "투용문",
       "original": "ワルサー / ＫＹＯＴＯ",
-      "display": "매그넘 도쿄",
+      "display": "매그넘 TOKYO",
       "english": "Magnum TOKYO",
       "renamed": true
     },
@@ -788,7 +788,7 @@
       "promotion": 5,
       "group": "투용문",
       "original": "ＺＹＭＡ",
-      "display": "시마",
+      "display": "CIMA",
       "english": "CIMA",
       "renamed": true
     },
@@ -806,7 +806,7 @@
       "promotion": 5,
       "group": "투용문",
       "original": "ＫＵＧＡ",
-      "display": "스와",
+      "display": "SUWA",
       "english": "SUWA",
       "renamed": true
     },
@@ -815,7 +815,7 @@
       "promotion": 5,
       "group": "투용문",
       "original": "Ｆ２０００ / 菅生・ダンディ",
-      "display": "스모 댄디 후지2000",
+      "display": "스모 후지 2000",
       "english": "Sumo Dandy Fuji 2000 (Don Fujii)",
       "renamed": true
     },
@@ -833,7 +833,7 @@
       "promotion": 6,
       "group": "대일본 프로레스",
       "original": "ＸＸＸ / ダークネス",
-      "display": "섀도 WX",
+      "display": "쉐도우 WX",
       "english": "Shadow WX",
       "renamed": true
     },
@@ -860,8 +860,8 @@
       "promotion": 6,
       "group": "대일본 프로레스",
       "original": "ボーイ / ケリー",
-      "display": "멘즈 테이오",
-      "english": "MEN'S Teioh (Terry Boy)",
+      "display": "테리 보이",
+      "english": "Terry Boy",
       "renamed": true
     },
     {
@@ -878,7 +878,7 @@
       "promotion": 7,
       "group": "오사카 프로레스",
       "original": "ドルフィン / Ｓ",
-      "display": "슈퍼 델핀",
+      "display": "스펠 델핀",
       "english": "Super Delfin",
       "renamed": true
     },
@@ -950,7 +950,7 @@
       "promotion": 8,
       "group": "FREE",
       "original": "トーゴー / マスター",
-      "display": "미스터 포고",
+      "display": "Mr 포고",
       "english": "Mister Pogo",
       "renamed": true
     },
@@ -968,8 +968,8 @@
       "promotion": 8,
       "group": "FREE",
       "original": "矢野 / 尚樹",
-      "display": "사노 나오키",
-      "english": "Naoki Sano",
+      "display": "사노 타쿠마",
+      "english": "Takuma Sano",
       "renamed": true
     },
     {
@@ -1040,7 +1040,7 @@
       "promotion": 8,
       "group": "FREE",
       "original": "タイガー / マッド",
-      "display": "타이거 지트 싱",
+      "display": "타이거 제트 싱",
       "english": "Tiger Jeet Singh",
       "renamed": true
     },
@@ -1049,7 +1049,7 @@
       "promotion": 8,
       "group": "FREE",
       "original": "タトゥー",
-      "display": "사부",
+      "display": "Sabu",
       "english": "Sabu",
       "renamed": true
     },
@@ -1058,7 +1058,7 @@
       "promotion": 8,
       "group": "FREE",
       "original": "ランダム / ログ",
-      "display": "롭 밴 댐",
+      "display": "롭 반담",
       "english": "Rob Van Dam",
       "renamed": true
     },
@@ -1067,7 +1067,7 @@
       "promotion": 8,
       "group": "FREE",
       "original": "カグラ / ザ・ミステリアス",
-      "display": "그레이트 가부키",
+      "display": "더 그레이트 카부키",
       "english": "The Great Kabuki",
       "renamed": true
     },
@@ -1130,9 +1130,9 @@
       "promotion": 15,
       "group": "격투가",
       "original": "ハーロック / ケイン",
-      "display": "케인 하록",
-      "english": "",
-      "renamed": false
+      "display": "켄 샴락",
+      "english": "Ken Shamrock",
+      "renamed": true
     },
     {
       "id": 126,
@@ -1319,8 +1319,8 @@
       "promotion": 10,
       "group": "WCW",
       "original": "サーベル / マッチョ",
-      "display": "랜디 새비지",
-      "english": "Randy Savage",
+      "display": "마초 맨",
+      "english": "Macho Man Randy Savage",
       "renamed": true
     },
     {
@@ -1337,7 +1337,7 @@
       "promotion": 10,
       "group": "WCW",
       "original": "ガッシュ / レビン",
-      "display": "케빈 내시",
+      "display": "케빈 내쉬",
       "english": "Kevin Nash",
       "renamed": true
     },
@@ -1373,7 +1373,7 @@
       "promotion": 10,
       "group": "WCW",
       "original": "武道 / ザ・グレイテスト",
-      "display": "그레이트 무타",
+      "display": "더 그레이트 무타",
       "english": "The Great Muta",
       "renamed": true
     },
@@ -1382,7 +1382,7 @@
       "promotion": 10,
       "group": "WCW",
       "original": "ビッグ / シュタイナー",
-      "display": "릭 스타이너",
+      "display": "릭 슈타이너",
       "english": "Rick Steiner",
       "renamed": true
     },
@@ -1391,7 +1391,7 @@
       "promotion": 10,
       "group": "WCW",
       "original": "スモール / シュタイナー",
-      "display": "스콧 스타이너",
+      "display": "스콧 슈타이너",
       "english": "Scott Steiner",
       "renamed": true
     },
@@ -1409,7 +1409,7 @@
       "promotion": 10,
       "group": "WCW",
       "original": "バレット / ビル",
-      "display": "제프 제럿",
+      "display": "제프 자렛",
       "english": "Jeff Jarrett",
       "renamed": true
     },
@@ -1472,7 +1472,7 @@
       "promotion": 11,
       "group": "AAA",
       "original": "Ｄシルバー / Ｊｒ．",
-      "display": "닥터 와그너Jr.",
+      "display": "Dr 와그너 Jr",
       "english": "Dr. Wagner Jr.",
       "renamed": true
     },
@@ -1499,126 +1499,126 @@
       "promotion": 12,
       "group": "RINGS",
       "original": "峰村 / 崇",
-      "display": "미네무라 타카시",
-      "english": "",
-      "renamed": false
+      "display": "타무라 키요시",
+      "english": "Kiyoshi Tamura",
+      "renamed": true
     },
     {
       "id": 167,
       "promotion": 12,
       "group": "RINGS",
       "original": "宝坂 / 大志",
-      "display": "호사카 타이시",
-      "english": "",
-      "renamed": false
+      "display": "코사카 츠요시",
+      "english": "Tsuyoshi Kosaka",
+      "renamed": true
     },
     {
       "id": 168,
       "promotion": 12,
       "group": "RINGS",
       "original": "河本 / 信宏",
-      "display": "카와모토 노부히로",
-      "english": "",
-      "renamed": false
+      "display": "야마모토 요시히사",
+      "english": "Yoshihisa Yamamoto",
+      "renamed": true
     },
     {
       "id": 169,
       "promotion": 12,
       "group": "RINGS",
       "original": "ガブリエル / リカード",
-      "display": "리카르도 가브리엘",
-      "english": "",
-      "renamed": false
+      "display": "비타제 타리엘",
+      "english": "Tariel Bitsadze",
+      "renamed": true
     },
     {
       "id": 170,
       "promotion": 12,
       "group": "RINGS",
       "original": "バーン / ウォルフ",
-      "display": "울프 번",
-      "english": "",
-      "renamed": false
+      "display": "볼크 한",
+      "english": "Volk Han",
+      "renamed": true
     },
     {
       "id": 171,
       "promotion": 12,
       "group": "RINGS",
       "original": "ハイマン / ランス",
-      "display": "랜스 하이먼",
-      "english": "",
-      "renamed": false
+      "display": "한스 나이만",
+      "english": "Hans Nijman",
+      "renamed": true
     },
     {
       "id": 172,
       "promotion": 12,
       "group": "RINGS",
       "original": "冴刃 / 明",
-      "display": "사에바 아키라",
-      "english": "",
-      "renamed": false
+      "display": "마에다 아키라",
+      "english": "Akira Maeda",
+      "renamed": true
     },
     {
       "id": 173,
       "promotion": 13,
       "group": "판크라스",
       "original": "桧垣 / 誠",
-      "display": "히가키 마코토",
-      "english": "",
-      "renamed": false
+      "display": "후나키 마사카츠",
+      "english": "Masakatsu Funaki",
+      "renamed": true
     },
     {
       "id": 174,
       "promotion": 13,
       "group": "판크라스",
       "original": "千堂 / 勇気",
-      "display": "센도 유키",
-      "english": "",
-      "renamed": false
+      "display": "곤도 유키",
+      "english": "Yuki Kondo",
+      "renamed": true
     },
     {
       "id": 175,
       "promotion": 13,
       "group": "판크라스",
       "original": "高石 / 俊樹",
-      "display": "타카이시 토시키",
-      "english": "",
-      "renamed": false
+      "display": "타카하시 요시키",
+      "english": "Yoshiki Takahashi",
+      "renamed": true
     },
     {
       "id": 176,
       "promotion": 13,
       "group": "판크라스",
       "original": "シュトゥルム / ベーム",
-      "display": "뵘 슈투름",
-      "english": "",
-      "renamed": false
+      "display": "세미 쉴트",
+      "english": "Semmy Schilt",
+      "renamed": true
     },
     {
       "id": 177,
       "promotion": 14,
       "group": "격투탐정단 바트라츠",
       "original": "石原 / 冬威",
-      "display": "이시하라 후유나리",
-      "english": "",
-      "renamed": false
+      "display": "이시카와 유키",
+      "english": "Yuki Ishikawa",
+      "renamed": true
     },
     {
       "id": 178,
       "promotion": 14,
       "group": "격투탐정단 바트라츠",
       "original": "大月 / ヘラクレス",
-      "display": "헤라클레스 오즈키",
-      "english": "",
-      "renamed": false
+      "display": "알렉산더 오츠카",
+      "english": "Alexander Otsuka",
+      "renamed": true
     },
     {
       "id": 179,
       "promotion": 14,
       "group": "격투탐정단 바트라츠",
       "original": "トネ / ムハンマド",
-      "display": "무함마드 토네",
-      "english": "",
-      "renamed": false
+      "display": "무하마드 요네",
+      "english": "Muhammad Yone",
+      "renamed": true
     },
     {
       "id": 180,
@@ -1634,36 +1634,36 @@
       "promotion": 14,
       "group": "격투탐정단 바트라츠",
       "original": "三鷹 / 竜斗",
-      "display": "미타카 류토",
-      "english": "",
-      "renamed": false
+      "display": "히다카 이쿠토",
+      "english": "Ikuto Hidaka",
+      "renamed": true
     },
     {
       "id": 182,
       "promotion": 15,
       "group": "격투가",
       "original": "野川 / 裕也",
-      "display": "노가와 히로야",
-      "english": "",
-      "renamed": false
+      "display": "오가와 나오야",
+      "english": "Naoya Ogawa",
+      "renamed": true
     },
     {
       "id": 183,
       "promotion": 15,
       "group": "격투가",
       "original": "柏田 / 一樹",
-      "display": "카시와다 카즈키",
-      "english": "",
-      "renamed": false
+      "display": "사쿠라바 카즈시",
+      "english": "Kazushi Sakuraba",
+      "renamed": true
     },
     {
       "id": 184,
       "promotion": 15,
       "group": "격투가",
       "original": "梶田 / 政之",
-      "display": "카지타 마사유키",
-      "english": "",
-      "renamed": false
+      "display": "후지타 카즈유키",
+      "english": "Kazuyuki Fujita",
+      "renamed": true
     },
     {
       "id": 185,
@@ -1679,81 +1679,81 @@
       "promotion": 15,
       "group": "격투가",
       "original": "佐岳 / 雅之",
-      "display": "사다케 마사유키",
-      "english": "",
-      "renamed": false
+      "display": "사타케 마사아키",
+      "english": "Masaaki Satake",
+      "renamed": true
     },
     {
       "id": 187,
       "promotion": 15,
       "group": "격투가",
       "original": "センネン / 木下",
-      "display": "센넨 키노시타",
-      "english": "",
-      "renamed": false
+      "display": "엔센 이노우에",
+      "english": "Enson Inoue",
+      "renamed": true
     },
     {
       "id": 188,
       "promotion": 15,
       "group": "격투가",
       "original": "フミヤ / 加藤",
-      "display": "카토 후미야",
-      "english": "",
-      "renamed": false
+      "display": "사토 루미나",
+      "english": "Rumina Sato",
+      "renamed": true
     },
     {
       "id": 189,
       "promotion": 15,
       "group": "격투가",
       "original": "犬神 / 一義",
-      "display": "이누가미 카즈요시",
-      "english": "",
-      "renamed": false
+      "display": "무라카미 카즈나리",
+      "english": "Kazunari Murakami",
+      "renamed": true
     },
     {
       "id": 190,
       "promotion": 15,
       "group": "격투가",
       "original": "アレビン / ヘラクレス",
-      "display": "헤라클레스 알레빈",
-      "english": "",
-      "renamed": false
+      "display": "알렉산더 카렐린",
+      "english": "Aleksandr Karelin",
+      "renamed": true
     },
     {
       "id": 191,
       "promotion": 15,
       "group": "격투가",
       "original": "ロブハンキン / ルガール",
-      "display": "루갈 로브한킨",
-      "english": "",
-      "renamed": false
+      "display": "이고르 보브찬친",
+      "english": "Igor Vovchanchyn",
+      "renamed": true
     },
     {
       "id": 192,
       "promotion": 15,
       "group": "격투가",
       "original": "ベアー / マイク",
-      "display": "마이크 베어",
-      "english": "",
-      "renamed": false
+      "display": "마크 커",
+      "english": "Mark Kerr",
+      "renamed": true
     },
     {
       "id": 193,
       "promotion": 15,
       "group": "격투가",
       "original": "ニクソン / ステイシー",
-      "display": "닉슨 스테이시",
-      "english": "",
-      "renamed": false
+      "display": "힉슨 그레이시",
+      "english": "Rickson Gracie",
+      "renamed": true
     },
     {
       "id": 194,
       "promotion": 15,
       "group": "격투가",
       "original": "ヴォイス / ステイシー",
-      "display": "보이스 스테이시",
-      "english": "",
-      "renamed": false
+      "display": "호이스 그레이시",
+      "english": "Royce Gracie",
+      "renamed": true
     },
     {
       "id": 195,
@@ -1769,45 +1769,45 @@
       "promotion": 15,
       "group": "격투가",
       "original": "カール / チーター",
-      "display": "치타 카를",
-      "english": "",
-      "renamed": false
+      "display": "피터 아츠",
+      "english": "Peter Aerts",
+      "renamed": true
     },
     {
       "id": 197,
       "promotion": 15,
       "group": "격투가",
       "original": "ゴースト / ホーネット",
-      "display": "호넷 고스트",
-      "english": "",
-      "renamed": false
+      "display": "어네스토 호스트",
+      "english": "Ernesto Hoost",
+      "renamed": true
     },
     {
       "id": 198,
       "promotion": 15,
       "group": "격투가",
       "original": "ゲルハルト / ベイク",
-      "display": "베이크 게르하르트",
-      "english": "",
-      "renamed": false
+      "display": "마이크 베르나르도",
+      "english": "Mike Bernardo",
+      "renamed": true
     },
     {
       "id": 199,
       "promotion": 15,
       "group": "격투가",
       "original": "ファグ / アンドレ",
-      "display": "안드레 파그",
-      "english": "",
-      "renamed": false
+      "display": "앤디 훅",
+      "english": "Andy Hug",
+      "renamed": true
     },
     {
       "id": 200,
       "promotion": 15,
       "group": "격투가",
       "original": "ロッシュ / ネバーランド",
-      "display": "네버랜드 로슈",
-      "english": "",
-      "renamed": false
+      "display": "롤랑드 보크",
+      "english": "Roland Bock",
+      "renamed": true
     },
     {
       "id": 201,
@@ -1949,7 +1949,7 @@
       "promotion": 3,
       "group": "FMW",
       "original": "ＨＡＮＺＯ",
-      "display": "고에몬",
+      "display": "GOEMON",
       "english": "GOEMON",
       "renamed": true
     },

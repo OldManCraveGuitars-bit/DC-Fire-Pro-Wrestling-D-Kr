@@ -1,0 +1,58 @@
+{
+  "passed": true,
+  "version": "0.92",
+  "frozen_executable_sha256": "87640ed240fcd2eb06dbd9db46a1faf48b07863f3f04c8879193808e4e5ca712",
+  "frozen_executable_bytes": 18872864,
+  "frozen_code_matches_source": true,
+  "chd_to_gdi_all50_tracks_match": true,
+  "gdi_to_gdi_all50_tracks_match": true,
+  "unicode_and_spaces_in_output_path_verified": true,
+  "source_chd_unchanged": true,
+  "audio_tracks_preserved": 47,
+  "negative_and_failure_cases": 9,
+  "cases": [
+    {
+      "case": "wrong_hash",
+      "rejected": true,
+      "error": "일본판 원본 CHD의 SHA-256이 다릅니다. 패치 전 일본판 원본을 확인하세요."
+    },
+    {
+      "case": "existing_output",
+      "rejected": true,
+      "error": "이미 있는 파일/폴더에는 덮어쓰지 않습니다. 새 출력 폴더를 지정하세요."
+    },
+    {
+      "case": "wrong_gdi",
+      "rejected": true,
+      "error": "일본판 원본 50트랙 GDI를 선택하세요."
+    },
+    {
+      "case": "path_traversal",
+      "rejected": true,
+      "error": "GDI와 같은 폴더의 트랙 파일만 지원합니다."
+    },
+    {
+      "case": "source_as_output",
+      "rejected": true,
+      "error": "이미 있는 파일/폴더에는 덮어쓰지 않습니다. 새 출력 폴더를 지정하세요."
+    },
+    {
+      "case": "already_patched",
+      "rejected": true,
+      "error": "원본 트랙 03의 SHA-256이 다릅니다. 패치 전 일본판 원본을 확인하세요."
+    },
+    {
+      "case": "report_overwrite_original",
+      "rejected": true
+    },
+    {
+      "case": "corrupt_payload",
+      "rejected": true
+    },
+    {
+      "case": "interrupted_tool",
+      "partial_output_published": false
+    }
+  ],
+  "physical_console_tested": false
+}

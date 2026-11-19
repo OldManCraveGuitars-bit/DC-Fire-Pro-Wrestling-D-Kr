@@ -1,0 +1,1549 @@
+{
+  "gdi": "FireProD-KR-dev.gdi",
+  "mode": "static GDI data inspection only",
+  "emulator_launched": false,
+  "hardware_accessed": false,
+  "vmu_accessed": false,
+  "game_files_modified": false,
+  "passed": true,
+  "boot": {
+    "filename": "1ST_READ.BIN",
+    "directory_lba": 501830,
+    "bytes": 1653248,
+    "original_length_preserved": true,
+    "relocated_copy_matches_directory": true,
+    "on_final_data_track": true,
+    "sha256": "be09e85d3a6d5d25e87e3e92859608f9a521035e20f05be4475efa2473b03c18"
+  },
+  "archive": {
+    "end_lba_exclusive": 548629,
+    "track_end_lba_exclusive": 549150,
+    "remaining_sectors": 521,
+    "remaining_bytes": 1067008
+  },
+  "fonts": [
+    {
+      "entry": 254,
+      "bytes": 920072,
+      "glyph_slots": 7992,
+      "populated_slots": 4453,
+      "all_offsets_and_compressed_glyphs_valid": true,
+      "profiled_budget": 1114112,
+      "profiled_budget_spare": 107604,
+      "font_owned_cache_bytes": 86436,
+      "allocation_bytes": 1006508,
+      "budget_is_hardware_limit": false
+    },
+    {
+      "entry": 255,
+      "bytes": 999600,
+      "glyph_slots": 7992,
+      "populated_slots": 4453,
+      "all_offsets_and_compressed_glyphs_valid": true,
+      "profiled_budget": 1114112,
+      "profiled_budget_spare": 28076,
+      "font_owned_cache_bytes": 86436,
+      "allocation_bytes": 1086036,
+      "budget_is_hardware_limit": false
+    }
+  ],
+  "texture_scratch": {
+    "bytes": 528384,
+    "guard_bytes": 32,
+    "streams_checked": 243,
+    "original_default_domain_streams": 241,
+    "maximum_delivered_bytes": 524326,
+    "minimum_margin": 4058,
+    "preexisting_larger_streams": [
+      {
+        "entry": 148,
+        "item": null,
+        "original_bytes": 2097184,
+        "delivered_bytes": 2097184
+      },
+      {
+        "entry": 234,
+        "item": 6,
+        "original_bytes": 2097184,
+        "delivered_bytes": 2097184
+      }
+    ],
+    "streams": [
+      {
+        "entry": 145,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 146,
+        "item": null,
+        "original_bytes": 131104,
+        "delivered_bytes": 131104
+      },
+      {
+        "entry": 148,
+        "item": null,
+        "original_bytes": 2097184,
+        "delivered_bytes": 2097184
+      },
+      {
+        "entry": 191,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 192,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 193,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 194,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 195,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 196,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 197,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 198,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 199,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 200,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 201,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 202,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 203,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 204,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 205,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 206,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 207,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 208,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 209,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 220,
+        "item": null,
+        "original_bytes": 32800,
+        "delivered_bytes": 32800
+      },
+      {
+        "entry": 221,
+        "item": null,
+        "original_bytes": 131104,
+        "delivered_bytes": 131104
+      },
+      {
+        "entry": 222,
+        "item": null,
+        "original_bytes": 32800,
+        "delivered_bytes": 32800
+      },
+      {
+        "entry": 234,
+        "item": 0,
+        "original_bytes": 131107,
+        "delivered_bytes": 131107
+      },
+      {
+        "entry": 234,
+        "item": 1,
+        "original_bytes": 131104,
+        "delivered_bytes": 131104
+      },
+      {
+        "entry": 234,
+        "item": 10,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 11,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 12,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 13,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 14,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 15,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 16,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 17,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 18,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 19,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 2,
+        "original_bytes": 8225,
+        "delivered_bytes": 8225
+      },
+      {
+        "entry": 234,
+        "item": 20,
+        "original_bytes": 524323,
+        "delivered_bytes": 524323
+      },
+      {
+        "entry": 234,
+        "item": 21,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 22,
+        "original_bytes": 524323,
+        "delivered_bytes": 524323
+      },
+      {
+        "entry": 234,
+        "item": 23,
+        "original_bytes": 524323,
+        "delivered_bytes": 524323
+      },
+      {
+        "entry": 234,
+        "item": 24,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 25,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 26,
+        "original_bytes": 524323,
+        "delivered_bytes": 524323
+      },
+      {
+        "entry": 234,
+        "item": 27,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 28,
+        "original_bytes": 524323,
+        "delivered_bytes": 524323
+      },
+      {
+        "entry": 234,
+        "item": 29,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 3,
+        "original_bytes": 65555,
+        "delivered_bytes": 65555
+      },
+      {
+        "entry": 234,
+        "item": 30,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 31,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 32,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 33,
+        "original_bytes": 524323,
+        "delivered_bytes": 524323
+      },
+      {
+        "entry": 234,
+        "item": 34,
+        "original_bytes": 524323,
+        "delivered_bytes": 524326
+      },
+      {
+        "entry": 234,
+        "item": 35,
+        "original_bytes": 131104,
+        "delivered_bytes": 131106
+      },
+      {
+        "entry": 234,
+        "item": 36,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 37,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 38,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 39,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 4,
+        "original_bytes": 524320,
+        "delivered_bytes": 524322
+      },
+      {
+        "entry": 234,
+        "item": 40,
+        "original_bytes": 524323,
+        "delivered_bytes": 524323
+      },
+      {
+        "entry": 234,
+        "item": 41,
+        "original_bytes": 524323,
+        "delivered_bytes": 524323
+      },
+      {
+        "entry": 234,
+        "item": 42,
+        "original_bytes": 524323,
+        "delivered_bytes": 524323
+      },
+      {
+        "entry": 234,
+        "item": 43,
+        "original_bytes": 32801,
+        "delivered_bytes": 32801
+      },
+      {
+        "entry": 234,
+        "item": 44,
+        "original_bytes": 32800,
+        "delivered_bytes": 32800
+      },
+      {
+        "entry": 234,
+        "item": 45,
+        "original_bytes": 32803,
+        "delivered_bytes": 32803
+      },
+      {
+        "entry": 234,
+        "item": 46,
+        "original_bytes": 32803,
+        "delivered_bytes": 32803
+      },
+      {
+        "entry": 234,
+        "item": 47,
+        "original_bytes": 32800,
+        "delivered_bytes": 32800
+      },
+      {
+        "entry": 234,
+        "item": 48,
+        "original_bytes": 32803,
+        "delivered_bytes": 32803
+      },
+      {
+        "entry": 234,
+        "item": 49,
+        "original_bytes": 32800,
+        "delivered_bytes": 32800
+      },
+      {
+        "entry": 234,
+        "item": 5,
+        "original_bytes": 524322,
+        "delivered_bytes": 524324
+      },
+      {
+        "entry": 234,
+        "item": 50,
+        "original_bytes": 32800,
+        "delivered_bytes": 32800
+      },
+      {
+        "entry": 234,
+        "item": 51,
+        "original_bytes": 32800,
+        "delivered_bytes": 32800
+      },
+      {
+        "entry": 234,
+        "item": 52,
+        "original_bytes": 32800,
+        "delivered_bytes": 32800
+      },
+      {
+        "entry": 234,
+        "item": 53,
+        "original_bytes": 32803,
+        "delivered_bytes": 32803
+      },
+      {
+        "entry": 234,
+        "item": 54,
+        "original_bytes": 32800,
+        "delivered_bytes": 32800
+      },
+      {
+        "entry": 234,
+        "item": 55,
+        "original_bytes": 32800,
+        "delivered_bytes": 32800
+      },
+      {
+        "entry": 234,
+        "item": 56,
+        "original_bytes": 32800,
+        "delivered_bytes": 32800
+      },
+      {
+        "entry": 234,
+        "item": 57,
+        "original_bytes": 32803,
+        "delivered_bytes": 32803
+      },
+      {
+        "entry": 234,
+        "item": 58,
+        "original_bytes": 32800,
+        "delivered_bytes": 32800
+      },
+      {
+        "entry": 234,
+        "item": 59,
+        "original_bytes": 32803,
+        "delivered_bytes": 32803
+      },
+      {
+        "entry": 234,
+        "item": 6,
+        "original_bytes": 2097184,
+        "delivered_bytes": 2097184
+      },
+      {
+        "entry": 234,
+        "item": 60,
+        "original_bytes": 32800,
+        "delivered_bytes": 32800
+      },
+      {
+        "entry": 234,
+        "item": 61,
+        "original_bytes": 32800,
+        "delivered_bytes": 32800
+      },
+      {
+        "entry": 234,
+        "item": 62,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 63,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 234,
+        "item": 64,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 234,
+        "item": 65,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 234,
+        "item": 66,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 234,
+        "item": 67,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 234,
+        "item": 68,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 234,
+        "item": 69,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 234,
+        "item": 7,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 70,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 234,
+        "item": 71,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 234,
+        "item": 72,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 234,
+        "item": 73,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 234,
+        "item": 74,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 234,
+        "item": 75,
+        "original_bytes": 2082,
+        "delivered_bytes": 2082
+      },
+      {
+        "entry": 234,
+        "item": 76,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 234,
+        "item": 77,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 234,
+        "item": 78,
+        "original_bytes": 2082,
+        "delivered_bytes": 2082
+      },
+      {
+        "entry": 234,
+        "item": 79,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 234,
+        "item": 8,
+        "original_bytes": 524322,
+        "delivered_bytes": 524322
+      },
+      {
+        "entry": 234,
+        "item": 80,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 234,
+        "item": 81,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 234,
+        "item": 82,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 234,
+        "item": 83,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 234,
+        "item": 84,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 234,
+        "item": 85,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 234,
+        "item": 86,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 234,
+        "item": 87,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 234,
+        "item": 88,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 234,
+        "item": 89,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 234,
+        "item": 9,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 234,
+        "item": 90,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 234,
+        "item": 91,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 234,
+        "item": 92,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 234,
+        "item": 93,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 234,
+        "item": 94,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 234,
+        "item": 95,
+        "original_bytes": 544,
+        "delivered_bytes": 544
+      },
+      {
+        "entry": 235,
+        "item": 0,
+        "original_bytes": 524323,
+        "delivered_bytes": 524323
+      },
+      {
+        "entry": 235,
+        "item": 1,
+        "original_bytes": 131107,
+        "delivered_bytes": 131108
+      },
+      {
+        "entry": 236,
+        "item": null,
+        "original_bytes": 131104,
+        "delivered_bytes": 131104
+      },
+      {
+        "entry": 237,
+        "item": 0,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 237,
+        "item": 1,
+        "original_bytes": 524323,
+        "delivered_bytes": 524323
+      },
+      {
+        "entry": 237,
+        "item": 2,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 238,
+        "item": 0,
+        "original_bytes": 32800,
+        "delivered_bytes": 32800
+      },
+      {
+        "entry": 238,
+        "item": 1,
+        "original_bytes": 131107,
+        "delivered_bytes": 131107
+      },
+      {
+        "entry": 238,
+        "item": 10,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 238,
+        "item": 11,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 238,
+        "item": 12,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 238,
+        "item": 13,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 238,
+        "item": 14,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 238,
+        "item": 15,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 238,
+        "item": 16,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 238,
+        "item": 17,
+        "original_bytes": 2082,
+        "delivered_bytes": 2082
+      },
+      {
+        "entry": 238,
+        "item": 18,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 238,
+        "item": 19,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 238,
+        "item": 2,
+        "original_bytes": 524320,
+        "delivered_bytes": 524323
+      },
+      {
+        "entry": 238,
+        "item": 20,
+        "original_bytes": 2082,
+        "delivered_bytes": 2082
+      },
+      {
+        "entry": 238,
+        "item": 21,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 238,
+        "item": 22,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 238,
+        "item": 23,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 238,
+        "item": 24,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 238,
+        "item": 25,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 238,
+        "item": 26,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 238,
+        "item": 27,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 238,
+        "item": 28,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 238,
+        "item": 29,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 238,
+        "item": 3,
+        "original_bytes": 131107,
+        "delivered_bytes": 131108
+      },
+      {
+        "entry": 238,
+        "item": 30,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 238,
+        "item": 31,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 238,
+        "item": 32,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 238,
+        "item": 33,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 238,
+        "item": 34,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 238,
+        "item": 35,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 238,
+        "item": 36,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 238,
+        "item": 37,
+        "original_bytes": 544,
+        "delivered_bytes": 544
+      },
+      {
+        "entry": 238,
+        "item": 38,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 238,
+        "item": 39,
+        "original_bytes": 524323,
+        "delivered_bytes": 524323
+      },
+      {
+        "entry": 238,
+        "item": 4,
+        "original_bytes": 131104,
+        "delivered_bytes": 131104
+      },
+      {
+        "entry": 238,
+        "item": 40,
+        "original_bytes": 8225,
+        "delivered_bytes": 8225
+      },
+      {
+        "entry": 238,
+        "item": 5,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 238,
+        "item": 6,
+        "original_bytes": 2080,
+        "delivered_bytes": 2080
+      },
+      {
+        "entry": 238,
+        "item": 7,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 238,
+        "item": 8,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 238,
+        "item": 9,
+        "original_bytes": 2083,
+        "delivered_bytes": 2083
+      },
+      {
+        "entry": 239,
+        "item": 0,
+        "original_bytes": 524323,
+        "delivered_bytes": 524323
+      },
+      {
+        "entry": 239,
+        "item": 1,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 239,
+        "item": 2,
+        "original_bytes": 131107,
+        "delivered_bytes": 131107
+      },
+      {
+        "entry": 240,
+        "item": 0,
+        "original_bytes": 8224,
+        "delivered_bytes": 8224
+      },
+      {
+        "entry": 240,
+        "item": 1,
+        "original_bytes": 8224,
+        "delivered_bytes": 8224
+      },
+      {
+        "entry": 240,
+        "item": 10,
+        "original_bytes": 8227,
+        "delivered_bytes": 8227
+      },
+      {
+        "entry": 240,
+        "item": 11,
+        "original_bytes": 8227,
+        "delivered_bytes": 8227
+      },
+      {
+        "entry": 240,
+        "item": 12,
+        "original_bytes": 8224,
+        "delivered_bytes": 8224
+      },
+      {
+        "entry": 240,
+        "item": 13,
+        "original_bytes": 8227,
+        "delivered_bytes": 8227
+      },
+      {
+        "entry": 240,
+        "item": 14,
+        "original_bytes": 8224,
+        "delivered_bytes": 8224
+      },
+      {
+        "entry": 240,
+        "item": 15,
+        "original_bytes": 8227,
+        "delivered_bytes": 8227
+      },
+      {
+        "entry": 240,
+        "item": 16,
+        "original_bytes": 8224,
+        "delivered_bytes": 8224
+      },
+      {
+        "entry": 240,
+        "item": 17,
+        "original_bytes": 8227,
+        "delivered_bytes": 8227
+      },
+      {
+        "entry": 240,
+        "item": 18,
+        "original_bytes": 8224,
+        "delivered_bytes": 8224
+      },
+      {
+        "entry": 240,
+        "item": 19,
+        "original_bytes": 8225,
+        "delivered_bytes": 8225
+      },
+      {
+        "entry": 240,
+        "item": 2,
+        "original_bytes": 8227,
+        "delivered_bytes": 8227
+      },
+      {
+        "entry": 240,
+        "item": 20,
+        "original_bytes": 8227,
+        "delivered_bytes": 8227
+      },
+      {
+        "entry": 240,
+        "item": 21,
+        "original_bytes": 8224,
+        "delivered_bytes": 8224
+      },
+      {
+        "entry": 240,
+        "item": 22,
+        "original_bytes": 8227,
+        "delivered_bytes": 8227
+      },
+      {
+        "entry": 240,
+        "item": 23,
+        "original_bytes": 8224,
+        "delivered_bytes": 8224
+      },
+      {
+        "entry": 240,
+        "item": 24,
+        "original_bytes": 8224,
+        "delivered_bytes": 8224
+      },
+      {
+        "entry": 240,
+        "item": 25,
+        "original_bytes": 8224,
+        "delivered_bytes": 8224
+      },
+      {
+        "entry": 240,
+        "item": 26,
+        "original_bytes": 8224,
+        "delivered_bytes": 8224
+      },
+      {
+        "entry": 240,
+        "item": 27,
+        "original_bytes": 8227,
+        "delivered_bytes": 8227
+      },
+      {
+        "entry": 240,
+        "item": 28,
+        "original_bytes": 8224,
+        "delivered_bytes": 8224
+      },
+      {
+        "entry": 240,
+        "item": 29,
+        "original_bytes": 8227,
+        "delivered_bytes": 8227
+      },
+      {
+        "entry": 240,
+        "item": 3,
+        "original_bytes": 8227,
+        "delivered_bytes": 8227
+      },
+      {
+        "entry": 240,
+        "item": 4,
+        "original_bytes": 8227,
+        "delivered_bytes": 8227
+      },
+      {
+        "entry": 240,
+        "item": 5,
+        "original_bytes": 8227,
+        "delivered_bytes": 8227
+      },
+      {
+        "entry": 240,
+        "item": 6,
+        "original_bytes": 8227,
+        "delivered_bytes": 8227
+      },
+      {
+        "entry": 240,
+        "item": 7,
+        "original_bytes": 8227,
+        "delivered_bytes": 8227
+      },
+      {
+        "entry": 240,
+        "item": 8,
+        "original_bytes": 8224,
+        "delivered_bytes": 8224
+      },
+      {
+        "entry": 240,
+        "item": 9,
+        "original_bytes": 8224,
+        "delivered_bytes": 8224
+      },
+      {
+        "entry": 244,
+        "item": 0,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 244,
+        "item": 1,
+        "original_bytes": 524323,
+        "delivered_bytes": 524324
+      },
+      {
+        "entry": 245,
+        "item": 0,
+        "original_bytes": 524323,
+        "delivered_bytes": 524323
+      },
+      {
+        "entry": 245,
+        "item": 1,
+        "original_bytes": 524323,
+        "delivered_bytes": 524324
+      },
+      {
+        "entry": 246,
+        "item": 0,
+        "original_bytes": 524323,
+        "delivered_bytes": 524323
+      },
+      {
+        "entry": 246,
+        "item": 1,
+        "original_bytes": 524323,
+        "delivered_bytes": 524324
+      },
+      {
+        "entry": 247,
+        "item": 0,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      },
+      {
+        "entry": 247,
+        "item": 1,
+        "original_bytes": 524323,
+        "delivered_bytes": 524324
+      },
+      {
+        "entry": 248,
+        "item": 0,
+        "original_bytes": 131104,
+        "delivered_bytes": 131104
+      },
+      {
+        "entry": 248,
+        "item": 1,
+        "original_bytes": 131104,
+        "delivered_bytes": 131104
+      },
+      {
+        "entry": 248,
+        "item": 10,
+        "original_bytes": 131104,
+        "delivered_bytes": 131104
+      },
+      {
+        "entry": 248,
+        "item": 11,
+        "original_bytes": 131107,
+        "delivered_bytes": 131107
+      },
+      {
+        "entry": 248,
+        "item": 12,
+        "original_bytes": 131107,
+        "delivered_bytes": 131107
+      },
+      {
+        "entry": 248,
+        "item": 13,
+        "original_bytes": 131107,
+        "delivered_bytes": 131107
+      },
+      {
+        "entry": 248,
+        "item": 14,
+        "original_bytes": 131107,
+        "delivered_bytes": 131107
+      },
+      {
+        "entry": 248,
+        "item": 15,
+        "original_bytes": 131104,
+        "delivered_bytes": 131104
+      },
+      {
+        "entry": 248,
+        "item": 16,
+        "original_bytes": 131107,
+        "delivered_bytes": 131107
+      },
+      {
+        "entry": 248,
+        "item": 17,
+        "original_bytes": 131104,
+        "delivered_bytes": 131104
+      },
+      {
+        "entry": 248,
+        "item": 18,
+        "original_bytes": 131107,
+        "delivered_bytes": 131107
+      },
+      {
+        "entry": 248,
+        "item": 19,
+        "original_bytes": 131104,
+        "delivered_bytes": 131104
+      },
+      {
+        "entry": 248,
+        "item": 2,
+        "original_bytes": 131105,
+        "delivered_bytes": 131105
+      },
+      {
+        "entry": 248,
+        "item": 20,
+        "original_bytes": 131107,
+        "delivered_bytes": 131107
+      },
+      {
+        "entry": 248,
+        "item": 21,
+        "original_bytes": 131106,
+        "delivered_bytes": 131106
+      },
+      {
+        "entry": 248,
+        "item": 22,
+        "original_bytes": 131104,
+        "delivered_bytes": 131104
+      },
+      {
+        "entry": 248,
+        "item": 23,
+        "original_bytes": 131107,
+        "delivered_bytes": 131107
+      },
+      {
+        "entry": 248,
+        "item": 24,
+        "original_bytes": 131107,
+        "delivered_bytes": 131107
+      },
+      {
+        "entry": 248,
+        "item": 25,
+        "original_bytes": 131104,
+        "delivered_bytes": 131104
+      },
+      {
+        "entry": 248,
+        "item": 26,
+        "original_bytes": 131104,
+        "delivered_bytes": 131104
+      },
+      {
+        "entry": 248,
+        "item": 27,
+        "original_bytes": 131107,
+        "delivered_bytes": 131107
+      },
+      {
+        "entry": 248,
+        "item": 28,
+        "original_bytes": 131104,
+        "delivered_bytes": 131104
+      },
+      {
+        "entry": 248,
+        "item": 29,
+        "original_bytes": 131107,
+        "delivered_bytes": 131107
+      },
+      {
+        "entry": 248,
+        "item": 3,
+        "original_bytes": 131104,
+        "delivered_bytes": 131104
+      },
+      {
+        "entry": 248,
+        "item": 4,
+        "original_bytes": 131107,
+        "delivered_bytes": 131107
+      },
+      {
+        "entry": 248,
+        "item": 5,
+        "original_bytes": 131104,
+        "delivered_bytes": 131104
+      },
+      {
+        "entry": 248,
+        "item": 6,
+        "original_bytes": 131107,
+        "delivered_bytes": 131107
+      },
+      {
+        "entry": 248,
+        "item": 7,
+        "original_bytes": 131104,
+        "delivered_bytes": 131104
+      },
+      {
+        "entry": 248,
+        "item": 8,
+        "original_bytes": 131104,
+        "delivered_bytes": 131104
+      },
+      {
+        "entry": 248,
+        "item": 9,
+        "original_bytes": 131107,
+        "delivered_bytes": 131107
+      },
+      {
+        "entry": 250,
+        "item": 0,
+        "original_bytes": 32800,
+        "delivered_bytes": 32803
+      },
+      {
+        "entry": 250,
+        "item": 1,
+        "original_bytes": 32803,
+        "delivered_bytes": 32805
+      },
+      {
+        "entry": 251,
+        "item": null,
+        "original_bytes": 32800,
+        "delivered_bytes": 32800
+      },
+      {
+        "entry": 256,
+        "item": null,
+        "original_bytes": 524320,
+        "delivered_bytes": 524320
+      }
+    ],
+    "all_preexisting_larger_stream_decoded_lengths_preserved": true,
+    "runtime_heap_allocation_or_all_call_paths_not_proven_by_this_static_check": true
+  },
+  "dlc": {
+    "pool_bytes": 488480,
+    "pool_capacity": 489068,
+    "spare_bytes": 588,
+    "sector_rounded_load_bytes": 618496,
+    "load_start": "0x8c1d4b60",
+    "load_end_exclusive": "0x8c26bb60",
+    "reserved_end_exclusive": "0x8c26c040",
+    "sector_rounded_load_spare_bytes": 1248,
+    "move_pointers_aligned_and_in_pool": true,
+    "boot_routine_bytes": 60,
+    "guard_reservation_bytes": 128,
+    "boot_and_save_guard_code_ranges_disjoint": true
+  },
+  "physical_console_tested": false
+}

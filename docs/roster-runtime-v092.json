@@ -1,0 +1,436 @@
+{
+  "passed": true,
+  "version": "0.92",
+  "gdi": "FireProD-KR-dev.gdi",
+  "profiles_checked": 69,
+  "observed": [
+    {
+      "id": 28,
+      "display": "AKIRA",
+      "capture": "v092-name-028"
+    },
+    {
+      "id": 23,
+      "display": "스콧 노튼",
+      "capture": "v092-name-023"
+    },
+    {
+      "id": 24,
+      "display": "Super J",
+      "capture": "v092-name-024"
+    },
+    {
+      "id": 12,
+      "display": "쥬신 썬더라이거",
+      "capture": "v092-name-012"
+    },
+    {
+      "id": 65,
+      "display": "도리 펑크 Jr",
+      "capture": "v092-name-065"
+    },
+    {
+      "id": 50,
+      "display": "스턴 한센",
+      "capture": "v092-name-050"
+    },
+    {
+      "id": 51,
+      "display": "빅 반 베이더",
+      "capture": "v092-name-051"
+    },
+    {
+      "id": 69,
+      "display": "HAYABUSA",
+      "capture": "v092-name-069"
+    },
+    {
+      "id": 72,
+      "display": "Mr 간노스케",
+      "capture": "v092-name-072"
+    },
+    {
+      "id": 75,
+      "display": "쟈도",
+      "capture": "v092-name-075"
+    },
+    {
+      "id": 216,
+      "display": "GOEMON",
+      "capture": "v092-name-216"
+    },
+    {
+      "id": 81,
+      "display": "구란 하마다",
+      "capture": "v092-name-081"
+    },
+    {
+      "id": 80,
+      "display": "더 그레이트 사스케",
+      "capture": "v092-name-080"
+    },
+    {
+      "id": 82,
+      "display": "타이거 마스크 4세",
+      "capture": "v092-name-082"
+    },
+    {
+      "id": 85,
+      "display": "카레 맨",
+      "capture": "v092-name-085"
+    },
+    {
+      "id": 87,
+      "display": "CIMA",
+      "capture": "v092-name-087"
+    },
+    {
+      "id": 86,
+      "display": "매그넘 TOKYO",
+      "capture": "v092-name-086"
+    },
+    {
+      "id": 89,
+      "display": "SUWA",
+      "capture": "v092-name-089"
+    },
+    {
+      "id": 90,
+      "display": "스모 후지 2000",
+      "capture": "v092-name-090"
+    },
+    {
+      "id": 92,
+      "display": "쉐도우 WX",
+      "capture": "v092-name-092"
+    },
+    {
+      "id": 95,
+      "display": "테리 보이",
+      "capture": "v092-name-095"
+    },
+    {
+      "id": 97,
+      "display": "스펠 델핀",
+      "capture": "v092-name-097"
+    },
+    {
+      "id": 118,
+      "display": "더 그레이트 카부키",
+      "capture": "v092-name-118"
+    },
+    {
+      "id": 105,
+      "display": "Mr 포고",
+      "capture": "v092-name-105"
+    },
+    {
+      "id": 107,
+      "display": "사노 타쿠마",
+      "capture": "v092-name-107"
+    },
+    {
+      "id": 115,
+      "display": "타이거 제트 싱",
+      "capture": "v092-name-115"
+    },
+    {
+      "id": 116,
+      "display": "Sabu",
+      "capture": "v092-name-116"
+    },
+    {
+      "id": 117,
+      "display": "롭 반담",
+      "capture": "v092-name-117"
+    },
+    {
+      "id": 83,
+      "display": "구란 나니와",
+      "capture": "v092-name-083"
+    },
+    {
+      "id": 153,
+      "display": "릭 슈타이너",
+      "capture": "v092-name-153"
+    },
+    {
+      "id": 154,
+      "display": "스콧 슈타이너",
+      "capture": "v092-name-154"
+    },
+    {
+      "id": 146,
+      "display": "마초 맨",
+      "capture": "v092-name-146"
+    },
+    {
+      "id": 148,
+      "display": "케빈 내쉬",
+      "capture": "v092-name-148"
+    },
+    {
+      "id": 152,
+      "display": "더 그레이트 무타",
+      "capture": "v092-name-152"
+    },
+    {
+      "id": 156,
+      "display": "제프 자렛",
+      "capture": "v092-name-156"
+    },
+    {
+      "id": 163,
+      "display": "Dr 와그너 Jr",
+      "capture": "v092-name-163"
+    },
+    {
+      "id": 172,
+      "display": "마에다 아키라",
+      "capture": "v092-name-172"
+    },
+    {
+      "id": 166,
+      "display": "타무라 키요시",
+      "capture": "v092-name-166"
+    },
+    {
+      "id": 168,
+      "display": "야마모토 요시히사",
+      "capture": "v092-name-168"
+    },
+    {
+      "id": 167,
+      "display": "코사카 츠요시",
+      "capture": "v092-name-167"
+    },
+    {
+      "id": 169,
+      "display": "비타제 타리엘",
+      "capture": "v092-name-169"
+    },
+    {
+      "id": 170,
+      "display": "볼크 한",
+      "capture": "v092-name-170"
+    },
+    {
+      "id": 171,
+      "display": "한스 나이만",
+      "capture": "v092-name-171"
+    },
+    {
+      "id": 173,
+      "display": "후나키 마사카츠",
+      "capture": "v092-name-173"
+    },
+    {
+      "id": 174,
+      "display": "곤도 유키",
+      "capture": "v092-name-174"
+    },
+    {
+      "id": 175,
+      "display": "타카하시 요시키",
+      "capture": "v092-name-175"
+    },
+    {
+      "id": 176,
+      "display": "세미 쉴트",
+      "capture": "v092-name-176"
+    },
+    {
+      "id": 178,
+      "display": "알렉산더 오츠카",
+      "capture": "v092-name-178"
+    },
+    {
+      "id": 177,
+      "display": "이시카와 유키",
+      "capture": "v092-name-177"
+    },
+    {
+      "id": 179,
+      "display": "무하마드 요네",
+      "capture": "v092-name-179"
+    },
+    {
+      "id": 181,
+      "display": "히다카 이쿠토",
+      "capture": "v092-name-181"
+    },
+    {
+      "id": 183,
+      "display": "사쿠라바 카즈시",
+      "capture": "v092-name-183"
+    },
+    {
+      "id": 182,
+      "display": "오가와 나오야",
+      "capture": "v092-name-182"
+    },
+    {
+      "id": 184,
+      "display": "후지타 카즈유키",
+      "capture": "v092-name-184"
+    },
+    {
+      "id": 186,
+      "display": "사타케 마사아키",
+      "capture": "v092-name-186"
+    },
+    {
+      "id": 187,
+      "display": "엔센 이노우에",
+      "capture": "v092-name-187"
+    },
+    {
+      "id": 188,
+      "display": "사토 루미나",
+      "capture": "v092-name-188"
+    },
+    {
+      "id": 189,
+      "display": "무라카미 카즈나리",
+      "capture": "v092-name-189"
+    },
+    {
+      "id": 200,
+      "display": "롤랑드 보크",
+      "capture": "v092-name-200"
+    },
+    {
+      "id": 190,
+      "display": "알렉산더 카렐린",
+      "capture": "v092-name-190"
+    },
+    {
+      "id": 193,
+      "display": "힉슨 그레이시",
+      "capture": "v092-name-193"
+    },
+    {
+      "id": 194,
+      "display": "호이스 그레이시",
+      "capture": "v092-name-194"
+    },
+    {
+      "id": 191,
+      "display": "이고르 보브찬친",
+      "capture": "v092-name-191"
+    },
+    {
+      "id": 192,
+      "display": "마크 커",
+      "capture": "v092-name-192"
+    },
+    {
+      "id": 125,
+      "display": "켄 샴락",
+      "capture": "v092-name-125"
+    },
+    {
+      "id": 196,
+      "display": "피터 아츠",
+      "capture": "v092-name-196"
+    },
+    {
+      "id": 197,
+      "display": "어네스토 호스트",
+      "capture": "v092-name-197"
+    },
+    {
+      "id": 198,
+      "display": "마이크 베르나르도",
+      "capture": "v092-name-198"
+    },
+    {
+      "id": 199,
+      "display": "앤디 훅",
+      "capture": "v092-name-199"
+    }
+  ],
+  "promotion_headers": [
+    {
+      "promotion": 0,
+      "header": "신일본 프로레슬링"
+    },
+    {
+      "promotion": 1,
+      "header": "전일본 프로레슬링"
+    },
+    {
+      "promotion": 2,
+      "header": "NOAH"
+    },
+    {
+      "promotion": 3,
+      "header": "FMW"
+    },
+    {
+      "promotion": 4,
+      "header": "미치노쿠 프로레스"
+    },
+    {
+      "promotion": 5,
+      "header": "투용문"
+    },
+    {
+      "promotion": 6,
+      "header": "대일본 프로레스"
+    },
+    {
+      "promotion": 7,
+      "header": "오사카 프로레스"
+    },
+    {
+      "promotion": 8,
+      "header": "FREE"
+    },
+    {
+      "promotion": 9,
+      "header": "WWF"
+    },
+    {
+      "promotion": 10,
+      "header": "WCW"
+    },
+    {
+      "promotion": 11,
+      "header": "AAA"
+    },
+    {
+      "promotion": 12,
+      "header": "RINGS"
+    },
+    {
+      "promotion": 13,
+      "header": "판크라스"
+    },
+    {
+      "promotion": 14,
+      "header": "격투탐정단 바트라츠"
+    },
+    {
+      "promotion": 15,
+      "header": "격투가"
+    },
+    {
+      "promotion": 16,
+      "header": "여자"
+    },
+    {
+      "promotion": 17,
+      "header": "LEGEND"
+    }
+  ],
+  "controller_events_only": true,
+  "memory_writes": false,
+  "cold_boot": true,
+  "native_unlock_shortcut_used": "main menu L+R+Y",
+  "same_24px_font": true,
+  "name_pane_width": 148,
+  "physical_console_tested": false,
+  "changed_name_layout_findings": 0,
+  "rendering_limitation": "Some profile label/number clipping was observed in private Flycast captures on both v0.91 and v0.92; name bounds checks do not certify whole-profile rendering."
+}
